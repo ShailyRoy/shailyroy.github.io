@@ -11,10 +11,6 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Matlab
-  logo: /images/sections/skills/matlab.svg
-  summary: "Capable of using MATLAB as general computation tool."
-  url: "https://www.mathworks.com/products/matlab.html"
 
 - name: Python
   logo: /images/sections/skills/python.png
