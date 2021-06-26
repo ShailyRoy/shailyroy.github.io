@@ -21,11 +21,6 @@ skills:
   logo: /images/sections/skills/c.svg
   summary: "Know basic C programming. Used for problem solving. Teaching C programming language as a course in Sonargaon University (SU)."
 
-- name: Scheme
-  logo: /images/sections/skills/scheme.svg
-  summary: "Capable of writing and applying Scheme codes to automate pre-processing in ANSYS Fluent."
-  url: "https://en.wikipedia.org/wiki/Scheme_(programming_language)"
-
 - name: AutoCAD
   logo: /images/sections/skills/autocad.png
   summary: "Know basic fuctionatilies of autoCAD. Can design layouts."
@@ -48,12 +43,3 @@ skills:
   logo: /images/sections/skills/linux.png
   summary: "Using Ubuntu as secondary operating system. Capable of writing bash/shell scripts."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github."
-  url: "https://git-scm.com/"
-
-- name: Go Language
-  logo: /images/sections/skills/go.png
-  summary: "Familiar with Go. Developed this website using a self modified HUGO theme."
-  url: "https://golang.org"
