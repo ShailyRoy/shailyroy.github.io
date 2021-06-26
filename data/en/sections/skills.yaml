@@ -21,11 +21,6 @@ skills:
   logo: /images/sections/skills/c.svg
   summary: "Know basic C programming. Used for problem solving. Teaching C programming language as a course in Sonargaon University (SU)."
 
-- name: ANSYS Fluent
-  logo: /images/sections/skills/fluent2.png
-  summary: "Capable using ANSYS Fluent as FEM Modeling Tool."
-  url: "https://www.ansys.com/products/fluids/ansys-fluent"
-
 - name: Scheme
   logo: /images/sections/skills/scheme.svg
   summary: "Capable of writing and applying Scheme codes to automate pre-processing in ANSYS Fluent."
