@@ -29,19 +29,3 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using Ubuntu as secondary operating system. Capable of writing bash/shell scripts."
-
-- name: C++
-  logo: /images/sections/skills/cpp.png
-  summary: "Know basic C programming. Used for problem solving. Teaching C++ programming language as a course. Made some tutorials"
-  
-- name: Java
-  logo: /images/sections/skills/java.png
-  summary: "Capable of writing and applying Java codes for problem solving and projects, prepared some tutorial on Object Oriented Programming"
-
-- name: Latex
-  logo: /images/sections/skills/latex.png
-  summary: "Prepared Latex CV and Thesis Conference paper."
-  
-- name: Matlab
-  logo: /images/sections/skills/matlab.svg
-  summary: "Have basic idea."
