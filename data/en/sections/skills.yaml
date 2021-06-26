@@ -29,3 +29,7 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using Ubuntu as secondary operating system. Capable of writing bash/shell scripts."
+
+- name: C++
+  logo: /images/sections/skills/cpp.png
+  summary: "Know basic C programming. Used for problem solving. Teaching C++ programming language as a course. Made some tutorials"
