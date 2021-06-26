@@ -21,19 +21,6 @@ skills:
   logo: /images/sections/skills/c.svg
   summary: "Know basic C programming. Used for problem solving. Teaching C programming language as a course in Sonargaon University (SU)."
 
-- name: AutoCAD
-  logo: /images/sections/skills/autocad.png
-  summary: "Know basic fuctionatilies of autoCAD. Can design layouts."
-
-- name: Solidworks
-  logo: /images/sections/skills/solidworks.png
-  summary: "Can design complex 3D models."
-
-- name: Tecplot 360ex
-  logo: /images/sections/skills/tecplot.png
-  summary: "Using Tecplot 360ex as primary post-processing tool."
-  url: "https://www.tecplot.com"
-
 - name: Inkscape
   logo: /images/sections/skills/inkscape.png
   summary: "Also experienced with Inkscape."
