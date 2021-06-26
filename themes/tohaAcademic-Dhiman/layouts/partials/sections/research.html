@@ -1,0 +1,30 @@
+{{ $sectionID := replace (lower .section.name) " " "-"  }}
+{{ if .section.id }}
+{{ $sectionID = .section.id }}
+{{ end }}
+
+<div class="container-fluid anchor pb-5" id="{{ $sectionID }}">
+    {{ if not (.section.hideTitle) }}
+    <h1 class="text-center">{{ .section.name }}</h1></br>
+    {{ end }}
+    
+    {{ if .researchInterest }}
+    <div class="container timeline text-justify">
+        <div class="row align-items-center d-flex">
+            <div class="col-1 col-lg-2 text-center d-inline-flex justify-content-center">
+                <div class=""></div>
+            </div>
+            <div class="col-10 col-lg-10">
+                <div class="experience-entry-heading">
+                    <h4 rel="noopener" style="color: #aa4e24" >Fields of Interest</h4>
+                    <ul class="justify-content-around">
+                        {{ range .researchInterest }}
+                            <li>{{ . | markdownify }}</li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>

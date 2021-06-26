@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: false
+  weight: 3
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    typeOfExperience: Research Experience
+    name: Macro-to-Micro scale Fluids Engineering Lab (MμFEL)
+    url: "https://toufiquehasan.buet.ac.bd/research/lab/home.html"
+    location: Department of Mechanical Engineering, BUET
+    # company overview
+    overview: The research group of “Macro-to-Micro scale Fluids Engineering Lab (MμFEL)” is developed to study in modern bio fluid and gas dynamics related problems. The research group focuses on fundamental and applied phenomena in fluid mechanics using experimental, computational, and analytical approaches both in macro and micro scales.
+  positions:
+  - designation: Research Assistant
+    start: November 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      show: false   #if true, shows elements of respons as items
+      respons:
+      - Design and develop XYZ tool for ABC task
+      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+      - Lead backend team.
+
+  - designation: Research Student
+    start: January 2018
+    end: October 2020
+    responsibilities:
+      show: false   #if true, shows elements of respons as items
+      respons:
+      - Implement and test xyz feature for abc tool.
+      - Support client for abc tool.
+      - Learn k,d,w technology for xyz.
+
+- company:
+    typeOfExperience: Teaching Experience
+    name: Sonargaon University (SU)
+    url: "http://www.su.edu.bd"
+    location: 147/I, Green Road, Dhaka
+    overview: Sonargaon University (SU) is one of the Bangladesh’s preeminent private universities, approved by University Grants Commission (UGC) of Bangladesh and Bangladesh Government (GoB).
+  positions:
+  - designation: Lecturer at Department of Mechanical Engineering
+    start: June 2019
+    responsibilities:
+      show: false
+      respons:
+      - Write lots of example codes.
+      - Read lots of examples.
+      - See lots of example videos.
+
+- company:
+    typeOfExperience: Industrial Experience
+    name: The ACME Laboratories Ltd.
+    url: "https://www.acmeglobal.com"
+    location: Dhamrai Plant, Dhaka
+    overview: The ACME Laboratories Ltd. is a leading company for manufacturing world-class and top-quality pharmaceutical products in Bangladesh.
+  positions:
+  - designation: In Plant Trainee
+    start: October 2018
+    end: October 2018
+    responsibilities:
+      show: true
+      respons:
+      - Performed inspection of different subsystems and equipment
+      - Reported daily to the Chief of the Engineering Department

@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 8
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Using as the main language for teaching and thesis. Made some tutorials for python basics."
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C programming. Used for problem solving. Teaching C++ programming language as a course. Made some tutorials"
+  
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Capable of writing and applying Java codes for problem solving and projects, prepared some tutorial on Object Oriented Programming"
+
+- name: Latex
+  logo: /images/sections/skills/latex.png
+  summary: "Prepared Latex CV and Thesis Conference paper."
+
+- name: HTML CSS SQL PHP
+  logo: /images/sections/skills/htmlcss.png
+  summary: "Worked on some projects that requires html, css , sql and php."
+  
+- name: Matlab
+  logo: /images/sections/skills/matlab.svg
+  summary: "Have basic idea."
+ 

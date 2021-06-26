@@ -1,0 +1,127 @@
+# section information
+section:
+  name: Who is Shaily?
+  id: about-me
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation1: Lecturer
+# your company information
+company1:
+  name: Brac University
+  dept: CSE
+  url: "www.bracu.ac.bd"
+
+# a summary about you
+summaryCompany1: 'Shaily Roy is working as a lecturer in the Department of Computer Science and Engineering at Brac University from May, 2019. She has completed her undergraduate in Dec, 2018 from the same department with highest Distinction. Previously she was appointed as a lecturer in the Department of Software Engineering in Daffodil International University.
+She performed as a student tutor of CSE and Mathematics in Brac University for more than 2 years. She was also a programming contestant with multiple national recognitions and arranged multiple intra university programming contests as well as programming workshops in Brac University along with other contestants and BUCC during her student life. Before graduation, she was also an instructor in an institution where students were taught hardware implementation of programming.
+Besides, she has experience of working as a software engineer in a USA based company. She is a researcher as well and has successfully presented her work in a well-known international Conference.
+After joining Brac University, she has designed and introduced a totally new elective course "CSE419: Programming Languages" in the department of CSE.
+</br>
+She has completed her undergraduate education in [Computer Science Engineering], from
+[Brac University](https://www.bracu.ac.bd/) in December, 2018. She is currently doing her Msc there.
+</br>'
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/shailyR.pdf"
+
+
+#designation2: Lecturer
+
+#company2:
+#  name: Sonargaon University (SU)
+#  dept: Department of Mechanical Engineering
+#  url: "http://su.edu.bd"
+
+#summaryCompany2: 'test' 
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "********@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://bd.linkedin.com/in/shaily-roy-a64123109"
+
+- name: Google Scholar
+  icon: "ai ai-google-scholar ai-1.5x"
+  url: "https://scholar.google.com/citations?user=NiKP_10AAAAJ&hl=en"
+
+- name: Researchgate
+  icon: "ai ai-researchgate ai-1.5x"
+  url: "https://www.researchgate.net/profile/Shaily-Roy"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/shailyroy"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+#- type: certification
+#  name: Certified Kubernetes Security Specialist
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+#- type: certification
+#  name: Istio and IBM Cloud Kubernetes Service
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+#- type: certification
+#  name: Artificial Intelligence and Machine Learning
+#  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+#- type: certification
+#  name: Amateur Radio Operator
+#  url: "http://www.btrc.gov.bd/amateur-radio"
+#  badge: "files/HamRadio.png"
+
+- type: certification
+  name: Me
+  url: ""
+  badge: "files/shaily2.png"
+
+- type: certification
+  name: me
+  url: ""
+  badge: "files/shaily1.jpg"
+
+- type: certification
+  name: Me
+  url: ""
+  badge: "files/shaily.jpg"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 70
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: orange
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

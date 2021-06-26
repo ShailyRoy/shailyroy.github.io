@@ -1,0 +1,35 @@
+<div class="col-10 col-lg-8">
+    <div class="experience-entry-heading">
+        <h4 rel="noopener" style="color: #aa4e24">{{.company.typeOfExperience}}</h4>
+        <!-- For multiple positions, give emphasis on the company name-->
+        <h5>{{ if .company.url }}<a href={{.company.url}} title="{{ .company.name }}" target="_blank" rel="noopener">{{ .company.name }}</a>{{ else }}{{ .company.name }}{{ end }}</h5>
+
+        <!-- Total experience duration on a company is time between the starting date of the oldest position and ending date of most recent position -->
+        {{ $oldestPosition := index (last 1 .positions) 0}}
+        {{ $mostRecentPosition := index (first 1 .positions) 0}}
+        <p class="text-secondary">
+            {{ .company.location }}
+        </p>
+        <p class="text-muted">
+            {{ $oldestPosition.start }} - {{ if $mostRecentPosition.end }}{{ $mostRecentPosition.end }}{{ else }}{{ i18n "present" }}{{ end }}
+        </p>
+        <!-- Add company overview -->
+        <p>{{ .company.overview | markdownify }}</p>
+    </div>
+    <!-- Add the positions information -->
+    <div class="positions">
+    {{ range $index,$position:= .positions }}
+        <h6 class="designation">{{ $position.designation }}</h6>
+        <p class="text-muted">{{ $position.start }} - {{if $position.end }} {{ $position.end }} {{else}} {{ i18n "present" }} {{end}}</p>
+        <!-- Add the responsibilities handled at this position -->
+        {{ if $position.responsibilities.show }}
+            <ul class="justify-content-around">
+            {{ range $position.responsibilities.respons }}
+                <li>{{ . | markdownify }}</li>
+            {{ end }}
+            </ul>
+        {{ end }}
+        
+    {{ end }}
+    </div>
+</div>

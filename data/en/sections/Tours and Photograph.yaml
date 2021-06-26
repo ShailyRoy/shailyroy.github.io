@@ -1,0 +1,113 @@
+# section information
+section:
+  name: Tours and Photography
+  hideTitle: true
+  subName: Tours
+  id: cv
+  template: sections/cv.html # Use "sections/education-alt.html for alternate template.
+  enable: false
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+#- name: Ph.D in Quantum Cryptography
+#  icon: fa-microscope
+#  timeframe: 2016-2020
+#  institution:
+#    name: ABC University of Technology
+#    url: "#"
+#  grade: #(optional)
+#    scale: CGPA
+#    achieved: 3.6
+#    outOf: 4
+#  publications: #(optional)
+#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    url: "#"
+#  - title: Fusce eu augue ut odio porttitor pulvinar.
+#    url: "#"
+#  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+#    url: "#"
+- name: B.Sc. in Computer Science and Engineering
+  icon: fa-graduation-cap
+  timeframe: 2015 - 2018
+  institution:
+    name: Brac University
+    url: "https://www.bracu.ac.bd/"
+  grade: #(optional)
+    show: true
+    scale: CGPA
+    achieved: 3.89
+    outOf: 4
+  takenCourses: #(optional)
+    showCourses: false    #if true, will show this div
+    showGrades: false     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    courses:
+    - name: Data Structures and Algorithm
+      achieved: 4
+      outOf: 4
+    - name: Network Security
+      achieved: 3.7
+      outOf: 4
+    - name: Operating System
+      achieved: 4
+      outOf: 4
+    - name: Artificial Intelligent
+      achieved: 4
+      outOf: 4
+  publications: #(optional)
+    showPublications: true   #if true, will show this div
+    pubList:
+    - title: Bitcoin Price Forecasting Using Time Series Analysis
+      url: "https://ieeexplore.ieee.org/document/8631923"
+  #extracurricularActivities: #(optional)
+  extracurricular:
+    show: true
+    activities:
+    - Programming Contests
+    - Club Activities
+    - Hackathons
+    - Workshops
+    - VC Certificate
+
+- name: Higher Secondary School Certificate
+  icon: fa-university
+  timeframe: 2012 - 2014
+  institution:
+    name: Cantonment Public School & College, Rangpur
+    url: "http://cpscr.edu.bd"
+  grade: #(optional)
+    show: true
+    scale: GPA
+    achieved: 5
+    outOf: 5
+  extracurricular: #(optional)
+    show: false
+    activities:
+    - In vitae facilisis est, eget porta sem.
+    - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+    - Duis sed massa feugiat, ornare justo et, aliquam est.
+    - Pellentesque ut fringilla magna.
+
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2004 - 2012
+  institution:
+    name: Kurigram Government Girls High School
+  grade: #(optional)
+    show: true
+    scale: GPA
+    achieved: 5
+    outOf: 5
+  extracurricular: #(optional)
+    show: true
+    activities:
+    - Cultural Programs
+    - Drawing
+    - Debate
+    - Competitions
+    - Sports
+    
+    
+    

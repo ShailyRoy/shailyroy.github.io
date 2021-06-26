@@ -1,0 +1,12 @@
+section:
+  name: Research
+  id: research
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+researchInterest:
+  - Machine Learning
+  - Data Science
+  - Neural Network
+  - Deep Learning

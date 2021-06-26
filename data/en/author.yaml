@@ -1,0 +1,16 @@
+# some information about you
+name: "Shaily Roy"
+nickname: "Shaily"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Greetings, I am"
+image: "images/author/shaily.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "shailyroy37@gmail.com"
+  phone: "**************"
+
+# some summary about what you do
+summary:
+  - I love teaching
+  - I am interested in Data Science related Research
+  - Programming is my hobby

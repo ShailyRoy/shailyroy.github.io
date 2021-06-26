@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 10
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+# Your achievements achievements
+achievements:
+- title: Champion
+  image: /images/sections/achievements/sports.jpg
+  summary: Champion in Inter University Girls' Programming Contest.
+- title: Presenter
+  image: /images/sections/achievements/paper.jpg
+  summary: Successfully presented Conference Paper in ICCIT2018.
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from Brac University.
+- title: Instructor
+  image: /images/sections/achievements/win.png
+  summary: Successfully performed as an instructor in IEEE Programming workshop, Presented workshop details on behalf of the students.
+- title: Presenter
+  image: /images/sections/achievements/presenter.jpg
+  summary: 'Successfully completed workshops'
+- title: Participant
+  image: /images/sections/achievements/contest.jpeg
+  summary: Participating in a National Contest.
+- title: Participant
+  image: /images/sections/achievements/icpc.jpg
+  summary: Participated in icpc regional 2018.
+- title: Judge
+  image: /images/sections/achievements/presenter.png
+  summary: 'Performed as judge in BracU Intra University Programming Contest'

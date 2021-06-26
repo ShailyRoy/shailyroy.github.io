@@ -1,0 +1,17 @@
+<div class="container anchor about-section">  
+    <div class="container-fluid justify-content-center pb-3">
+      <div class="justify-content-center">
+          <h5 class="text-justify" rel="noopener" style="color: #aa4e24">{{ .title | markdownify }} </h5>
+      </div>
+    </div>
+
+    <div class="row pt-sm-2 pt-md-4 align-self-center">
+      <div class="col-sm-6 pb-3">
+        <img class="align-self-center max-device-width" src="{{.image }}" alt="{{ .content }}">
+      </div>
+      <div class="col-sm-6 pb-3">
+        <p class="text-justify"> {{ .description | markdownify }} </p>
+      </div>
+    </div>
+
+</div>

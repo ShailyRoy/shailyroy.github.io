@@ -1,0 +1,16 @@
+section:
+  name: Research Projects
+  id: research-projects
+  enable: true
+  weight: 5
+  showOnNavbar: false
+  hideTitle: true
+
+researchContents:
+
+- content:
+  title: Bitcoin Price Forecasting Using Time Series Analysis
+  image: "files/research/bit.gif"
+  description: "In our research, we have contributed in financial market area by enabling the investors to figure out how to dissect Bitcoin information and furthermore to utilize that learning to predict the future bitcoin price movement. 
+                This study represents consecutive next 10 days' bitcoin price forecasting method using different statistical time series analysis such as AR, MA and ARIMA model. 
+                After the analysis, finally we have found that MA model has the lowest accuracy of 87.58% and performance of ARIMA was better with an exactness of 90.31 % which is also better than the work of Georgoula and Pournarkis that we have followed."
