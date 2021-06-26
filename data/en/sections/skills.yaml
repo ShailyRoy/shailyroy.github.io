@@ -41,10 +41,6 @@ skills:
 - name: Latex
   logo: /images/sections/skills/latex.png
   summary: "Prepared Latex CV and Thesis Conference paper."
-
-- name: HTML
-  logo: /images/sections/skills/htmlcss.png
-  summary: "Worked on some projects that requires html, css , sql and php."
   
 - name: Matlab
   logo: /images/sections/skills/matlab.svg
