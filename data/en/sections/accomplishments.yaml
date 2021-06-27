@@ -3,7 +3,7 @@ section:
   name: Involvements
   id: accomplishments
   enable: true
-  weight: 9
+  weight: 11
   showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
