@@ -12,9 +12,9 @@ section:
 experiences:
 - company:
     typeOfExperience: Teaching
-    name: CSE, Brac University
-    url: "https://www.bracu.ac.bd"
-    location: Dhaka
+    name: Computer Science and Engineering, Brac University
+    url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
+    location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
     overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
   positions:
@@ -27,18 +27,18 @@ experiences:
       show: true   #if true, shows elements of respons as items
       respons:
       - Designed and developed a new course
-      - Co-ordinated Multiple courses in online and offline semesters
-      - Created online contents for Students
+      - Coordinated multiple courses in online and offline semesters
+      - Created online contents for the students
       - Arranged workshops, webiners regarding programming and also mental health
-      - Worked as Judge in various clubs' Competitions
+      - Worked as <b>Judge</b> in various clubs' competitions
       - Co-advised clubs
-      - Co-supervised Thesis groups
+      - Co-supervised thesis groups
       - Performed all the adminstritive responsibilities
 
 - company:
     typeOfExperience: Teaching
     name: Software Engineering Department, Daffodil International University
-    url: "https://www.diu.edu.bd"
+    url: "http://swe.daffodilvarsity.edu.bd"
     location: Dhaka
     # company overview
   positions:
@@ -52,8 +52,8 @@ experiences:
 
 - company:
     typeOfExperience: Programming
-    name: Appscode ltd
-    url: "https://appscode.com/about/"
+    name: Appscode Ltd
+    url: "https://appscode.com"
     location: Dhaka
     overview: "Appscode accelerates the transition to Containers by building a Kubernetes-native Data Platform. The vision of AppsCode is to make the best tools for software development available to anybody at an affordable price. " 
   positions:
@@ -63,9 +63,9 @@ experiences:
     responsibilities:
       show: false
       respons:
-      - Write lots of example codes.
-      - Read lots of examples.
-      - See lots of example videos.
+      - Wrote lots of example codes
+      - Read lots of examples
+      - See lots of example videos
 
 - company:
     typeOfExperience: Volunteering Experience
@@ -80,5 +80,5 @@ experiences:
     responsibilities:
       show: true
       respons:
-      - worked on some R&D Projects
-      - Helped Students Learning Arduino Programming
+      - Worked on some R&D projects
+      - Helped students learning Arduino Programming
