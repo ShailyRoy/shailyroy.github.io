@@ -44,7 +44,7 @@
                                     <ul>
                                         {{ range .publications }}
                                             {{ if .url }}
-                                                <li><a href="{{ .url }}" title="{{ .title }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+                                                <li><a href="{{ .url }}" target="_blank" rel="noopener" title="{{ .title }}" target="_blank" rel="noopener">{{ .title }}</a></li>
                                             {{ else }}
                                                 <li>{{ .title }}</li>
                                             {{ end }}
