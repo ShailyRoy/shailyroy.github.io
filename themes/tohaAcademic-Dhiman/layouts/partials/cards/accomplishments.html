@@ -13,7 +13,17 @@
     <div class="card-footer">
       {{ if .certificateURL }}
         <a class="btn btn-outline-info ml-1 pl-2 mb-2" href="{{ .certificateURL }}" target="_blank" rel="noopener" role="button">{{  "view more"}}</a>
-      {{ end }}
+        {{ end }}      
+      {{ if .certificateURL2 }}
+        <a class="btn btn-outline-info ml-1 pl-2 mb-2" href="{{ .certificateURL2 }}" target="_blank" rel="noopener" role="button">{{  "view more"}}</a>
+        {{ end }}
+      {{ if .certificateURL3 }}        
+        <a class="btn btn-outline-info ml-1 pl-2 mb-2" href="{{ .certificateURL3 }}" target="_blank" rel="noopener" role="button">{{  "view more"}}</a>
+        {{ end }}
+      {{ if .certificateURL4 }}
+        <a class="btn btn-outline-info ml-1 pl-2 mb-2" href="{{ .certificateURL4 }}" target="_blank" rel="noopener" role="button">{{  "view more"}}</a>
+        {{ end }}
+
     </div>
   </div>
 </div>
