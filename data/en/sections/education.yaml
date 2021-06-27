@@ -29,6 +29,19 @@ degrees:
 #    url: "#"
 #  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
 #    url: "#"
+- name: M.Sc. in Computer Science and Engineering
+  icon: fa-graduation-cap
+  timeframe: 2020 - Present
+  institution:
+    name: Brac University
+    url: "https://www.bracu.ac.bd/"
+  grade: #(optional)
+    show: true
+    scale: CGPA
+    achieved: "4 (Thesis Pending)"
+    outOf: 4
+
+
 - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
   timeframe: 2015 - 2018
@@ -36,7 +49,7 @@ degrees:
     name: Brac University
     url: "https://www.bracu.ac.bd/"
   grade: #(optional)
-    show: true
+    show: false
     scale: CGPA
     achieved: 3.89
     outOf: 4

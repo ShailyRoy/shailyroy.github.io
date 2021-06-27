@@ -1,12 +1,14 @@
 section:
-  name: Research
-  id: research
+  name: Conference Paper
+  id: research-projects
   enable: true
-  weight: 4
-  showOnNavbar: true
+  weight: 5
+  showOnNavbar: false
+  hideTitle: true
 
-researchInterest:
-  - Machine Learning
-  - Data Science
-  - Neural Network
-  - Deep Learning
+researchContents:
+
+- content: 
+  title: Research Interests
+  image: "files/research/bot.gif"
+  description: 'I am broadly interested in Data Science. In my undergrad , I worked on Time Series Analysis , however currently I am working on some Machine Learning Related Research Problems. In future I will love to work on Machine Learning, Neural Network, Deep Learning, Image Processing and Natural Language Processing'

@@ -8,9 +8,11 @@
     <h1 class="text-center">{{ .section.name }}</h1>
   {{ end }}
   <div class="container">
-    <div class="row" id="recent-post-cards">
-      {{ range first 3 (where site.RegularPages.ByDate.Reverse "Type" "in" "posts" )}}
-        {{ partial "cards/recent-post.html" . }}
+    <div class="row" id="gallery">
+    </div>
+    <div class="d-none" id="achievements-holder">
+      {{ range .achievements }}
+        {{ partial "sections/achievements/entry.html" . }}
       {{ end }}
     </div>
   </div>

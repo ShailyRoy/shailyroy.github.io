@@ -1,11 +1,30 @@
 # section information
 section:
-  name: Recent Posts
+  name: Tours and Photography
   id: recent-posts
   enable: false
-  weight: 6
-  showOnNavbar: true
+  weight: 12
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # no additional configuration is required
+recent-posts:
+- title: Champion
+  image: /images/sections/tours/a.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/b.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/c.jpg
+  summary: 
+  - title: Champion
+  image: /images/sections/tours/d.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/e.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/f.jpg
+  summary: 

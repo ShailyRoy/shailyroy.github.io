@@ -1,16 +1,14 @@
 section:
-  name: Research Projects
+  name: Conference Paper
   id: research-projects
   enable: true
-  weight: 5
+  weight: 6
   showOnNavbar: false
-  hideTitle: true
+  hideTitle: false
 
 researchContents:
 
-- content:
-  title: Bitcoin Price Forecasting Using Time Series Analysis
+- content: 
+  title: '<text style="color: #aa4e24">Roy, S.</text>, Nanjiba, s., Chakrabarty, A., 2018. Bitcoin Price Forecasting using Time Series Analysis.'
   image: "files/research/bit.gif"
-  description: "In our research, we have contributed in financial market area by enabling the investors to figure out how to dissect Bitcoin information and furthermore to utilize that learning to predict the future bitcoin price movement. 
-                This study represents consecutive next 10 days' bitcoin price forecasting method using different statistical time series analysis such as AR, MA and ARIMA model. 
-                After the analysis, finally we have found that MA model has the lowest accuracy of 87.58% and performance of ARIMA was better with an exactness of 90.31 % which is also better than the work of Georgoula and Pournarkis that we have followed."
+  description: "It was my undergraduate thesis project. Over the past few years, Bitcoin has been a topic of interest of many, from academic researchers to trade investors. Bitcoin is the first as well as the most popular cryptocurrency till date. Since its launch in 2009, it has become widely popular amongst various kinds of people for its trading system without the need of a third party and also due to high volatility of Bitcoin price. In this paper, we propose a suitable model that can predict the market price of Bitcoin best by applying a few statistical analysis. Our work is done on four years bitcoin data from 2013 to 2017 based on time series approaches especially autoregressive integrated moving average (ARIMA) model and the work finally could acquire an accuracy of 90% for deciding volatility in weighted costs of bitcoin in the short run."
