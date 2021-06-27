@@ -37,11 +37,6 @@ achievements:
 - title: Instructor
   image: /images/sections/achievements/win.png
   summary: Successfully performed as an instructor in IEEE Programming workshop, Presented workshop details on behalf of the students.
-- title: "Instructor"
-  image: /images/sections/achievements/cont.jpg
-  summary: Conducted workshops in university life
-
-
 - title: Presenter
   image: /images/sections/achievements/presenter.jpg
   summary: 'Successfully completed workshops'
@@ -54,10 +49,6 @@ achievements:
 - title: 'Certified Android Dev'
   image: /images/sections/achievements/android.jpg
   summary: 'Certified as Android Developer from Bracu Chair person Haidar Ali Sir'
-
-- title: Participant
-  image: /images/sections/achievements/a.jpg
-  summary: Paticipated in Natinal Contest Camp and got Certified
 - title: Participant
   image: /images/sections/achievements/cert.jpg
   summary: 
