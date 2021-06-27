@@ -3,7 +3,7 @@ section:
   name: Achievements
   id: achievements
   enable: true
-  weight: 10
+  weight: 13
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,6 +12,22 @@ achievements:
 - title: Champion
   image: /images/sections/achievements/pAlo-2018_02_03_16_1_b.jpg
   summary: Champion in Inter University Girls' Programming Contest.
+- title: VC Certified
+  image: /images/sections/achievements/vc.png
+  summary: Got Certification from VC for high standard discipline in Residential Semester
+- title: "Winner"
+  image: /images/sections/achievements/b.jpg
+  summary: Participated in a National Girls' Programming Contest and got 4th Position
+- title: Winner
+  image: /images/sections/achievements/codeit.png
+  summary: Participating in a National Girls' Contest and got 3rd position
+- title: Winner
+  image: /images/sections/achievements/adal.png
+  summary: Participated in a National Women Online Contest and got 4th Position
+- title: Presenter
+  image: /images/sections/achievements/tarc.jpg
+  summary: Successfully started Programming course as RS activity in Sava Residential Campus of Bracu.
+
 - title: Presenter
   image: /images/sections/achievements/paper.jpg
   summary: Successfully presented Conference Paper in ICCIT2018.
@@ -21,6 +37,11 @@ achievements:
 - title: Instructor
   image: /images/sections/achievements/win.png
   summary: Successfully performed as an instructor in IEEE Programming workshop, Presented workshop details on behalf of the students.
+- title: "Instructor"
+  image: /images/sections/achievements/cont.jpg
+  summary: Conducted workshops in university life
+
+
 - title: Presenter
   image: /images/sections/achievements/presenter.jpg
   summary: 'Successfully completed workshops'
@@ -30,6 +51,13 @@ achievements:
 - title: Participant
   image: /images/sections/achievements/icpc.jpg
   summary: Participated in icpc regional 2018.
-- title: Judge
-  image: /images/sections/achievements/presenter.png
-  summary: 'Performed as judge in BracU Intra University Programming Contest'
+- title: 'Certified Android Dev'
+  image: /images/sections/achievements/android.jpg
+  summary: 'Certified as Android Developer from Bracu Chair person Haidar Ali Sir'
+
+- title: Participant
+  image: /images/sections/achievements/a.jpg
+  summary: Paticipated in Natinal Contest Camp and got Certified
+- title: Participant
+  image: /images/sections/achievements/cert.jpg
+  summary: 
