@@ -1,7 +1,7 @@
 # section information
 section:
   name: Involvements
-  id: invlovements
+  id: involvements
   enable: true
   weight: 11
   showOnNavbar: true
