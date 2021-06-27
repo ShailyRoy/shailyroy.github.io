@@ -498,8 +498,8 @@
   }
   
   .circular-progress {
-    width: 70px;
-    height: 70px;
+    width: 135px;
+    height: 135px;
   }
 }
 
@@ -507,8 +507,8 @@
 
 @media only screen and (max-width: 576px) {
   .circular-progress {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
   }
 
   .circular-progress .circular-progress-value {
