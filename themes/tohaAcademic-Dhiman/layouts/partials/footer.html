@@ -5,6 +5,7 @@
 {{ $newsletterEnabled  := site.Params.footer.newsletter.enable  | default true }}
 {{ $credentialsEnabled := site.Params.footer.credentials.enable | default true }}
 {{ $disclaimerEnabled  := site.Params.footer.disclaimer.enable  | default false }}
+{{ $copyrightEnabled  := site.Params.footer.copywrite.enable  | default true }}
 
 {{/*  Keep backward compatibility for the newsletter function */}}
 {{ if site.Params.newsletter }}
@@ -153,13 +154,13 @@
           </a>
           -->
         </div>
-        
+        {{ if $copyrightEnabled }}
         <div class="col-md-4 text-center text-white">© {{ now.Format "2006" }} || 
           <a class="text-white">
             {{ $copyrightNotice | markdownify }}
           </a>
         </div>
-        
+        {{ end }}
         <div class="col-md-4 text-right">
           <!--
           <a id="hugo" href="https://gohugo.io/" target="_blank" rel="noopener">{{ i18n "hugoAttributionText" }}

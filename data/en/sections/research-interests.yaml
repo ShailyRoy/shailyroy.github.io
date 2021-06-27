@@ -1,9 +1,9 @@
 section:
-  name: Research Interests
+  name: Research
   id: research-projects
   enable: true
   weight: 5
-  showOnNavbar: false
+  showOnNavbar: true
   hideTitle: false
 
 researchContents:

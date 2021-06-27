@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Who is Shaily?
-  id: about-me
+  name: About
+  id: about
   enable: true
   weight: 1
   showOnNavbar: true
@@ -80,7 +80,7 @@ badges:
   color: orange
 
 - type: soft-skill-indicator
-  name: Critical Thinking Ability
+  name: Communication
   percentage: 90
   color: yellow
 
