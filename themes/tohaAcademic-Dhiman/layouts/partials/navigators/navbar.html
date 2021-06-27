@@ -77,14 +77,14 @@
           {{ range sort $sections "section.weight" }}
             {{ if and (.section.enable) (.section.showOnNavbar)}}
               {{ $sectionCount  = add $sectionCount 1}}
-              {{ if le $sectionCount 5 }}
+              {{ if le $sectionCount 6 }}
                 <li class="nav-item">
                   <a class="nav-link" href="#{{ partial "helpers/get-section-id.html" . }}">{{ .section.name }}</a>
                 </li>
               {{ end }}
             {{ end }}
           {{- end }}
-          {{ if gt $sectionCount 5 }}
+          {{ if gt $sectionCount 6 }}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{i18n "more" }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
