@@ -67,7 +67,7 @@ params:
     blog:
       enable: true
     # Enable & configure "Notes" features
-    notes:
+    Notes:
       enable: true
 
 
