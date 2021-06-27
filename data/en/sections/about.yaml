@@ -12,8 +12,8 @@ designation1: Lecturer
 # your company information
 company1:
   name: Brac University
-  dept: CSE
-  url: "www.bracu.ac.bd"
+  dept: Department of CSE,
+  url: "https://www.bracu.ac.bd/"
 
 # a summary about you
 summaryCompany1: 'Shaily Roy is working as a lecturer in the Department of Computer Science and Engineering at Brac University from May, 2019. She has completed her undergraduate in Dec, 2018 from the same department with highest Distinction. Previously she was appointed as a lecturer in the Department of Software Engineering in Daffodil International University.
@@ -21,7 +21,7 @@ She performed as a student tutor of CSE and Mathematics in Brac University for m
 Besides, she has experience of working as a software engineer in a USA based company. She is a researcher as well and has successfully presented her work in a well-known international Conference.
 After joining Brac University, she has designed and introduced a totally new elective course "CSE419: Programming Languages" in the department of CSE.
 </br>
-She has completed her undergraduate education in [Computer Science Engineering], from
+She has completed her undergraduate education in Computer Science Engineering, from
 [Brac University](https://www.bracu.ac.bd/) in December, 2018. She is currently doing her Msc there.
 </br>'
 

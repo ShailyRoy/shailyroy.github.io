@@ -3,7 +3,7 @@
 {{ $sectionID = .section.id }}
 {{ end }}
 
-<div class="container-fluid" id="{{ $sectionID }}" style="background-color: #fff;" >
+<div class="container-fluid anchor pb-5" id="{{ $sectionID }}" style="background-color: #fff;" >
     {{ if not (.section.hideTitle) }}
     <h1 class="text-center">{{ .section.name }}</h1>
     {{ end }}
