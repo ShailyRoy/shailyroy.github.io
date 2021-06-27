@@ -17,7 +17,7 @@
       <h5 class="p-1">
         {{ .designation1 }}
         {{ if .company1 }}
-        {{ i18n "at"}} {{ if .company1.dept }} {{.company1.dept}}  {{ end }} <a href="{{ .company1.url }}" title="{{ .company1.name }}" target="_blank" rel="noopener">{{ .company1.name }}</a>
+        {{ i18n "at"}} {{ if .company1.dept }} {{.company1.dept}}  {{ end }} <a href="{{ .company1.url }}" target="_blank" rel="noopener" title="{{ .company1.name }}" target="_blank" rel="noopener">{{ .company1.name }}</a>
         {{ end }}
       </h5>
       {{ end }}
@@ -46,18 +46,18 @@
           {{ range .socialLinks }}
           <li>
             {{ if eq .name "Email" }}
-              <a href="mailto:{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a>
+              <a href="mailto:{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a>
             {{ else if eq .name "Phone" }}
-              <a href="tel:{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a>
+              <a href="tel:{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a>
             {{ else }}
-              <a href="{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a>
+              <a href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a>
             {{ end }}
           </li>
           {{ end }}
         </ul>
       </div>
       {{ if .resume }}
-      <a href="{{ .resume | relURL }}" title="{{ i18n "resume"}}" target="#"
+      <a href="{{ .resume | relURL }}" target="_blank" rel="noopener" title="{{ i18n "resume"}}" target="#"
         ><button class="btn btn-dark">{{ i18n "resume"}}</button></a
       >
       {{ end }}
