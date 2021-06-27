@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Who is Shaily?
-  id: about-me
+  name: About
+  id: about
   enable: true
   weight: 1
   showOnNavbar: true
