@@ -11,4 +11,10 @@ researchContents:
 - content: 
   title: 
   image: "files/research/bot.gif"
-  description: 'I am broadly interested in Data Science. In my undergrad , I worked on Time Series Analysis , however currently I am working on some Machine Learning Related Research Problems. In future I will love to work on Machine Learning, Neural Network, Deep Learning, Image Processing and Natural Language Processing'
+  description: 'I am broadly interested in Data Science. In my undergrad , I worked on Time Series Analysis , however currently I am working on some Machine Learning Related Research Problems. In future I will love to work on' 
+  description2: '*Machine Learning'
+  description3: '*Neural Network'
+  description4: '*Deep Learning'
+  description5: '*Image Processing'
+  description6: '*Natural Language Processing'
+                
