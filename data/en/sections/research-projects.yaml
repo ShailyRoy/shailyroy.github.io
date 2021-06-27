@@ -9,6 +9,6 @@ section:
 researchContents:
 
 - content: 
-  title: '<text style="color: #aa4e24">Roy, S.</text>, Nanjiba, s., Chakrabarty, A., 2018. Bitcoin Price Forecasting using Time Series Analysis.'
+  title: '<text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S., Chakrabarty, A., 2018. Bitcoin Price Forecasting using Time Series Analysis.'
   image: "files/research/bit.gif"
   description: "It was my undergraduate thesis project. Over the past few years, Bitcoin has been a topic of interest of many, from academic researchers to trade investors. Bitcoin is the first as well as the most popular cryptocurrency till date. Since its launch in 2009, it has become widely popular amongst various kinds of people for its trading system without the need of a third party and also due to high volatility of Bitcoin price. In this paper, we propose a suitable model that can predict the market price of Bitcoin best by applying a few statistical analysis. Our work is done on four years bitcoin data from 2013 to 2017 based on time series approaches especially autoregressive integrated moving average (ARIMA) model and the work finally could acquire an accuracy of 90% for deciding volatility in weighted costs of bitcoin in the short run."
