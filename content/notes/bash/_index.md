@@ -5,5 +5,7 @@ menu:
     name: Bash
     identifier: notes-bash
     weight: 20
+enable: false
+showOnNavbar: false
 ---
 # Bash Notes
