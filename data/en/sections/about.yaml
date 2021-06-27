@@ -43,7 +43,7 @@ resume: "files/shailyR.pdf"
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "********@gmail.com"
+  url: "shaily.roy@bracu.ac.bd"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -61,9 +61,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/shailyroy"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
