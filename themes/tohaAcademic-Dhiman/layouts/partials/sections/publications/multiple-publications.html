@@ -10,7 +10,7 @@
     
     <div class="positions">
     {{ range $index,$item:= .entry }}
-        <h6 class="designation">{{ $item.title | markdownify }}{{ if $item.url }} doi: <a href="https://doi.org/{{ $item.url }}">{{ $item.url }} </a> {{ end }} </h6> <br />
+        <h6 class="designation">{{ $item.title | markdownify }}{{ if $item.url }} doi: <a href="https://doi.org/{{ $item.url }}" target="_blank">{{ $item.url }} </a> {{ end }} </h6> <br />
         <!-- 
            <p class="p-1 text-justify">{{ $item.title | markdownify }}</p>
         -->
