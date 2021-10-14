@@ -25,7 +25,7 @@ publicationList:
 - publication:
     type: Conference Publications               #Journal or Conference or Book Chapter
   entry:                                       #add - title here
-    - title: '[3] <text style="color: #aa4e24">Roy, S.</text>, Tahsin L., 2021. Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model.'
+    - title: '[1] <text style="color: #aa4e24">Roy, S.</text>, Tahsin L., 2021. Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model.'
       abstract:
         show: false
         text: journal paper 2 abstract
@@ -36,7 +36,7 @@ publicationList:
         show: false
         text: journal paper 2 abstract
         
-    - title: '[1] <text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S. and Chakrabarty, A., 2018, December. Bitcoin price forecasting using time series analysis. In <i>2018 21st International Conference of Computer and Information Technology (ICCIT)</i> (pp. 1-5). IEEE.'
+    - title: '[3] <text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S. and Chakrabarty, A., 2018, December. Bitcoin price forecasting using time series analysis. In <i>2018 21st International Conference of Computer and Information Technology (ICCIT)</i> (pp. 1-5). IEEE.'
       url: 10.1109/ICCITECHN.2018.8631923
       abstract:
         show: false
