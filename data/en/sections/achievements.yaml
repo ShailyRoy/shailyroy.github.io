@@ -9,6 +9,9 @@ section:
   # hideTitle: true
 # Your achievements achievements
 achievements:
+- title: Presenter
+  image: /images/sections/achievements/Ms.-Shaily-Roy.jpg
+  summary: "Presented a paper on ICISSC-2021: International Conference on Intelligent Systems and Sustainable Computing"
 - title: Champion
   image: /images/sections/achievements/pAlo-2018_02_03_16_1_b.jpg
   summary: Champion in Inter University Girls' Programming Contest.
