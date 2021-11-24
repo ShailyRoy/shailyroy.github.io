@@ -10,6 +10,9 @@ section:
 # Your achievements achievements
 achievements:
 - title: Presenter
+  image: /images/sections/achievements/iceccme.png
+  summary: "Presented a paper on ICECCME-2021: International Conference on Electrical, Computer, Communications and Mechatronics Engineering"
+- title: Presenter
   image: /images/sections/achievements/Ms.-Shaily-Roy.jpg
   summary: "Presented a paper on ICISSC-2021: International Conference on Intelligent Systems and Sustainable Computing"
 - title: Champion
