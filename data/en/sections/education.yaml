@@ -65,8 +65,6 @@ degrees:
   publications: #(optional)
     showPublications: true   #if true, will show this div
     pubList:
-    - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
-      url: "https://easychair.org/publications/preprint/rc9f"
     - title: Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method
       url: "https://ieeexplore.ieee.org/document/9591153"
   #extracurricularActivities: #(optional)
