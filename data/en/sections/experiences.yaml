@@ -27,11 +27,11 @@ experiences:
     responsibilities:
       show: true   #if true, shows elements of respons as items
       respons:
-      Co-supervising multiple research teams on the following topics 
-      - Real Time Translation from Sign Language to Written Language in both Bengali and English Language using Deep Learning, spring 2021
-      - Machine Learning Models To Predict Impacts Of Different Parenting Styles On Child’s Mental Health, summer21
-      - Conversational AI for Companionship, summer21
-      - Identification and recognition of person wearing face mask, summer21
+      - Co-supervising multiple research teams on the following topics 
+        - Real Time Translation from Sign Language to Written Language in both Bengali and English Language using Deep Learning, spring 2021
+        - Machine Learning Models To Predict Impacts Of Different Parenting Styles On Child’s Mental Health, summer21
+        - Conversational AI for Companionship, summer21
+        - Identification and recognition of person wearing face mask, summer21
 
 - company:
     typeOfExperience: Research
