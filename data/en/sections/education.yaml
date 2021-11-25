@@ -40,7 +40,14 @@ degrees:
     scale: CGPA
     achieved: "4 (Thesis Pending)"
     outOf: 4
-  
+  publications: #(optional)
+    showPublications: false   #if true, will show this div
+    pubList:
+    - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
+      url: "https://easychair.org/publications/preprint/rc9f"
+    - title: Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method
+      url: "https://ieeexplore.ieee.org/document/9591153"
+  #extracurricularActivities: #(optional)
 
 - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
@@ -55,7 +62,7 @@ degrees:
     outOf: 4
   takenCourses: #(optional)
     showCourses: true    #if true, will show this div
-    showGrades: true     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     courses:
     - name: Programming language and Data Structures
       achieved: 4
