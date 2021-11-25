@@ -41,7 +41,7 @@ degrees:
     achieved: "4 (Thesis Pending)"
     outOf: 4
   takenCourses: #(optional)
-    showCourses: true    #if true, will show this div
+    showCourses: true   #if true, will show this div
     showGrades: true     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     courses:
     - name: Neural Network
