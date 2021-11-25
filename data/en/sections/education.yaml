@@ -69,7 +69,7 @@ degrees:
       url: "https://ieeexplore.ieee.org/document/8631923"
   #extracurricularActivities: #(optional)
   extracurricular:
-    show: false
+    show: true
 
   - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
