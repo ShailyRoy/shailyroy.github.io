@@ -65,14 +65,15 @@ degrees:
   publications: #(optional)
     showPublications: true   #if true, will show this div
     pubList:
-    - title: Bitcoin Price Forecasting Using Time Series Analysis
-      url: "https://ieeexplore.ieee.org/document/8631923"
+    - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
+      url: "https://easychair.org/publications/preprint/rc9f"
+    - title: Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method
+      url: "https://ieeexplore.ieee.org/document/9591153"
   #extracurricularActivities: #(optional)
   extracurricular:
     show: true
   
-      
-- name: B.Sc. in Computer Science and Engineering
+  - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
   timeframe: 2015 - 2018
   institution:
