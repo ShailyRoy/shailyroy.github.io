@@ -40,36 +40,7 @@ degrees:
     scale: CGPA
     achieved: "4 (Thesis Pending)"
     outOf: 4
-  takenCourses: #(optional)
-    showCourses: false   #if true, will show this div
-    showGrades: false     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    courses:
-    - name: Neural Network
-      achieved: 4
-      outOf: 4
-    - name: Symbolic Machine Learning 1
-      achieved: 3.7
-      outOf: 4
-    - name: Advanced Artificial Intelligence
-      achieved: 4
-      outOf: 4
-    - name: Natural Language Processing
-      achieved: 4
-      outOf: 4
-    - name: Graph Theory
-      achieved: 4
-      outOf: 4
-    - name: Decision Support System
-      achieved: 4
-      outOf: 4
-  publications: #(optional)
-    showPublications: false   #if true, will show this div
-    pubList:
-    - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
-      url: "https://easychair.org/publications/preprint/rc9f"
-    - title: Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method
-      url: "https://ieeexplore.ieee.org/document/9591153"
-  #extracurricularActivities: #(optional)
+  
 
 - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
