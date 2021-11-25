@@ -65,7 +65,7 @@ degrees:
   publications: #(optional)
     showPublications: true   #if true, will show this div
     pubList:
-    - title: Bitcoin Price Forecasting Using Time Series Analysis
+    - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
       url: "https://ieeexplore.ieee.org/document/8631923"
   #extracurricularActivities: #(optional)
   extracurricular:
