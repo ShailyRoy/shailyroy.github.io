@@ -38,8 +38,6 @@ experiences:
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
-
-  
   - designation: Lecturer
     start: May 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
