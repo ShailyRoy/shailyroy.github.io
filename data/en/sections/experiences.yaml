@@ -16,7 +16,7 @@ experiences:
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
-    overview: 'I am co-supervising more some research teams on the following topics'
+    overview: 'I am co-supervising some research teams on the following topics'
   positions:
   - designation: Co-supervisor
     start:  April 2020
@@ -37,7 +37,7 @@ experiences:
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
-  overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
+    overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
   positions:
   - designation: Lecturer
     start: May 2019
@@ -50,9 +50,9 @@ experiences:
       - Designed and developed a new course
       - Coordinated Algorithms and Competitive Programming in online and offline semesters
       - Created online contents for the students
-      - Arranged workshops, webiners regarding programming and also mental health
+      - Arranged workshops, webiners regarding programming and also mental health with IEEE team , Bracu councelling centre
       - Worked as <b>Judge</b> in various clubs' competitions
-      - Co-advised clubs
+      - Co-advised Brac University Computer Club
       - Performed all the adminstritive responsibilities
 
 - company:
