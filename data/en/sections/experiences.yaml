@@ -11,15 +11,31 @@ section:
 # Your experiences
 experiences:
 - company:
-    typeOfExperience: Teaching
+    typeOfExperience: Research
     name: Computer Science and Engineering, Brac University
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
     overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
   positions:
+
+  - designation: Co-supervisor
+    start:  April 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      show: true   #if true, shows elements of respons as items
+      respons:
+      Co-supervising multiple research teams on the following topics 
+      - Real Time Translation from Sign Language to Written Language in both Bengali and English Language using Deep Learning, spring 2021
+      - Machine Learning Models To Predict Impacts Of Different Parenting Styles On Child’s Mental Health, summer21
+      - Conversational AI for Companionship, summer21
+      - Identification and recognition of person wearing face mask, summer21
+
+  
   - designation: Lecturer
-    start: May 2018
+    start: May 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -27,12 +43,11 @@ experiences:
       show: true   #if true, shows elements of respons as items
       respons:
       - Designed and developed a new course
-      - Coordinated multiple courses in online and offline semesters
+      - Coordinated Algorithms and Competitive Programming in online and offline semesters
       - Created online contents for the students
       - Arranged workshops, webiners regarding programming and also mental health
       - Worked as <b>Judge</b> in various clubs' competitions
       - Co-advised clubs
-      - Co-supervised thesis groups
       - Performed all the adminstritive responsibilities
 
 - company:
