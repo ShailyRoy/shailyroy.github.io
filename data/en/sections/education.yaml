@@ -62,6 +62,14 @@ degrees:
     - name: Decision Support System
       achieved: 4
       outOf: 4
+  publications: #(optional)
+    showPublications: false   #if true, will show this div
+    pubList:
+    - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
+      url: "https://easychair.org/publications/preprint/rc9f"
+
+ 
+
       
 - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
