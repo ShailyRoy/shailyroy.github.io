@@ -62,14 +62,11 @@ degrees:
     - name: Decision Support System
       achieved: 4
       outOf: 4
-   publications: #(optional)
-    showPublications: true
+    publications: #(optional)
+  showPublications: true
     pubList:
     - title: Bitcoin Price Forecasting Using Time Series Analysis
       url: "https://ieeexplore.ieee.org/document/8631923"
-  #extracurricularActivities: #(optional)
-  extracurricular:
-    show: true
 
   - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
