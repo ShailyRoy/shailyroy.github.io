@@ -33,6 +33,15 @@ experiences:
       - Conversational AI for Companionship, summer21
       - Identification and recognition of person wearing face mask, summer21
 
+- company:
+    typeOfExperience: Research
+    name: Computer Science and Engineering, Brac University
+    url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
+    location: 66 Mohakhali, Dhaka 1212, Bangladesh
+    # company overview
+    overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
+  positions:
+
   
   - designation: Lecturer
     start: May 2019
