@@ -18,7 +18,6 @@ experiences:
     # company overview
     overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
   positions:
-
   - designation: Co-supervisor
     start:  April 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
@@ -38,6 +37,7 @@ experiences:
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
+  positions:
   - designation: Lecturer
     start: May 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
