@@ -65,6 +65,8 @@ degrees:
   publications: #(optional)
     showPublications: true   #if true, will show this div
     pubList:
+    - title: Bitcoin Price Forecasting Using Time Series Analysis
+      url: "https://ieeexplore.ieee.org/document/8631923"
     - title: Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method
       url: "https://ieeexplore.ieee.org/document/9591153"
     - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
