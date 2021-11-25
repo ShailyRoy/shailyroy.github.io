@@ -40,7 +40,7 @@ degrees:
     scale: CGPA
     achieved: "4 (Thesis Pending)"
     outOf: 4
- takenCourses: #(optional)
+  takenCourses: #(optional)
     showCourses: true    #if true, will show this div
     showGrades: true     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     courses:
@@ -62,7 +62,7 @@ degrees:
     - name: Decision Support System
       achieved: 4
       outOf: 4
- publications: #(optional)
+  publications: #(optional)
     showPublications: true   #if true, will show this div
     pubList:
     - title: Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model
@@ -161,6 +161,3 @@ degrees:
     - Debate
     - Competitions
     - Sports
-    
-    
-    
