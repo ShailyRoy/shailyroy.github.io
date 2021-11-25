@@ -11,7 +11,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    typeOfExperience: Research Experiences
+    typeOfExperience: Research Experience
     name: Computer Science and Engineering, Brac University
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
@@ -32,7 +32,7 @@ experiences:
       - Identification and recognition of person wearing face mask, summer21
 
 - company:
-    typeOfExperience: Teaching Experiences
+    typeOfExperience: Teaching Experience
     name: Computer Science and Engineering, Brac University
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
@@ -56,7 +56,7 @@ experiences:
       - Performed all the adminstritive responsibilities
 
 - company:
-    typeOfExperience: Teaching Experiences
+    typeOfExperience: Teaching Experience
     name: Software Engineering Department, Daffodil International University
     url: "http://swe.daffodilvarsity.edu.bd"
     location: Dhaka
@@ -71,7 +71,7 @@ experiences:
       - Performed all the academic and adminstritive responsibilities
 
 - company:
-    typeOfExperience: Programming Experiences
+    typeOfExperience: Programming Experience
     name: Appscode Ltd
     url: "https://appscode.com"
     location: Dhaka
