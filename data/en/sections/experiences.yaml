@@ -33,13 +33,12 @@ experiences:
       - Identification and recognition of person wearing face mask, summer21
 
 - company:
-    typeOfExperience: Research
+    typeOfExperience: Teaching
     name: Computer Science and Engineering, Brac University
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
-    overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
-  positions:
+    overview:  ''
 
   
   - designation: Lecturer
@@ -66,8 +65,8 @@ experiences:
     # company overview
   positions:
   - designation: Lecturer
-    start: March 2018
-    end: May 2018
+    start: March 2019
+    end: May 2019
     responsibilities:
       show: true   #if true, shows elements of respons as items
       respons:
@@ -81,14 +80,14 @@ experiences:
     overview: "Appscode accelerates the transition to Containers by building a Kubernetes-native Data Platform. The vision of AppsCode is to make the best tools for software development available to anybody at an affordable price. " 
   positions:
   - designation: Front End Software Engineer
-    start: February 2018
-    end: March 2018
+    start: February 2019
+    end: March 2019
     responsibilities:
-      show: false
+      show: true
       respons:
-      - Wrote lots of example codes
-      - Read lots of examples
-      - See lots of example videos
+      - Wrote Lots of Codes on Javascript
+      - Read lots of blogs
+      - See lots of tutorial videos
 
 - company:
     typeOfExperience: Volunteering Experience
