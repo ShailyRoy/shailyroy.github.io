@@ -2,7 +2,7 @@ section:
   name: Research
   id: research-projects
   enable: true
-  weight: 5
+  weight: 7
   showOnNavbar: true
   hideTitle: false
 
