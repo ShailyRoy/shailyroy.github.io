@@ -3,7 +3,7 @@ section:
   name: Achievements
   id: achievements
   enable: true
-  weight: 14
+  weight: 15
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -55,3 +55,8 @@ achievements:
 - title: Participant
   image: /images/sections/achievements/cert.jpg
   summary: 
+ - title: Keynote Speaker
+  image: /images/sections/achievements/prog.png
+  summary: https://www.facebook.com/447593662694887/posts/1172411863546393/
+  
+  
