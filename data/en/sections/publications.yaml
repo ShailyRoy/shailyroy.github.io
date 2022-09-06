@@ -25,12 +25,12 @@ publicationList:
 - publication:
     type: Conference Publications               #Journal or Conference or Book Chapter
   entry:  
-    - title: '[1] Taawab A. A., Rahman M., Islam Z., Mustari N., <text style="color: #aa4e24">Roy, S.</text>, Alam Md. G. R., 2022. Detecting Self-Esteem Level and Depressive Indication Due to Different Parenting Style Using Supervised Learning Techniques     
+    - title: '[1] Taawab A. A., Rahman M., Islam Z., Mustari N., <text style="color: #aa4e24">Roy, S.</text>, Alam Md. G. R., 2022. Detecting Self-Esteem Level and Depressive Indication Due to Different Parenting Style Using Supervised Learning Techniques'     
       abstract:
         show: false
         text: journal paper 2 abstract#add - title here
         
-    - title: '[2] Bikash D M, Mitra A, Bismoy M I, Shahrear F, Afrin F, <text style="color: #aa4e24">Roy, S.</text>, Arif H., 2022. Image Translation of Bangla and English Sign Language to Written Language using Convolutional Neural Network 
+    - title: '[2] Bikash D M, Mitra A, Bismoy M I, Shahrear F, Afrin F, <text style="color: #aa4e24">Roy, S.</text>, Arif H., 2022. Image Translation of Bangla and English Sign Language to Written Language using Convolutional Neural Network' 
       abstract:
         show: false
         text: journal paper 2 abstract
