@@ -72,9 +72,9 @@ degrees:
 
   #extracurricularActivities: #(optional)
   extracurricular:
-    show: false
-
-
+    show: true
+  
+      
 - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
   timeframe: 2015 - 2018
