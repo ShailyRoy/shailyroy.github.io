@@ -6,7 +6,7 @@ section:
   id: cv
   template: sections/cv.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 2
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -73,7 +73,7 @@ degrees:
 
   #extracurricularActivities: #(optional)
   extracurricular:
-    show: true
+    show: false
   
       
 - name: B.Sc. in Computer Science and Engineering
