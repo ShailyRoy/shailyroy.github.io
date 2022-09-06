@@ -6,23 +6,22 @@ section:
   id: cv
   template: sections/cv.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 3
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Computer Science
-  icon: fa-microscope
-  timeframe: 2022-2026
-  institution:
-    name: Syracuse University
-    url: "https://www.syracuse.edu/"
-  grade: #(optional)
-    show: false
-    scale: CGPA
-    achieved: 4
-    outOf: 4
+#- name: Ph.D in Quantum Cryptography
+#  icon: fa-microscope
+#  timeframe: 2016-2020
+#  institution:
+#    name: ABC University of Technology
+#    url: "#"
+#  grade: #(optional)
+#    scale: CGPA
+#    achieved: 3.6
+#    outOf: 4
 #  publications: #(optional)
 #  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #    url: "#"
@@ -73,7 +72,7 @@ degrees:
 
   #extracurricularActivities: #(optional)
   extracurricular:
-    show: false
+    show: true
   
       
 - name: B.Sc. in Computer Science and Engineering
