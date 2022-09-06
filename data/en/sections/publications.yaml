@@ -24,19 +24,29 @@ publicationList:
 
 - publication:
     type: Conference Publications               #Journal or Conference or Book Chapter
-  entry:                                       #add - title here
-    - title: '[1] <text style="color: #aa4e24">Roy, S.</text>, Tahsin L., 2021. Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model.'
+  entry:  
+    - title: '[1] Taawab A. A., Rahman M., Islam Z., Mustari N., <text style="color: #aa4e24">Roy, S.</text>, Alam Md. G. R., 2022. Detecting Self-Esteem Level and Depressive Indication Due to Different Parenting Style Using Supervised Learning Techniques     
+      abstract:
+        show: false
+        text: journal paper 2 abstract#add - title here
+        
+    - title: '[2] Bikash D M, Mitra A, Bismoy M I, Shahrear F, Afrin F, <text style="color: #aa4e24">Roy, S.</text>, Arif H., 2022. Image Translation of Bangla and English Sign Language to Written Language using Convolutional Neural Network 
+      abstract:
+        show: false
+        text: journal paper 2 abstract
+        
+    - title: '[3] <text style="color: #aa4e24">Roy, S.</text>, Tahsin L., 2021. Prediction Of Covid-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based On SIR Epidemical Model.'
       abstract:
         show: false
         text: journal paper 2 abstract
 
-    - title: '[2] Ahmed S., <text style="color: #aa4e24">Roy, S.</text>, Rabiul G., 2021. Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method.'
+    - title: '[4] Ahmed S., <text style="color: #aa4e24">Roy, S.</text>, Rabiul G., 2021. Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method.'
       url:
       abstract:
         show: false
         text: journal paper 2 abstract
         
-    - title: '[3] <text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S. and Chakrabarty, A., 2018, December. Bitcoin price forecasting using time series analysis. In <i>2018 21st International Conference of Computer and Information Technology (ICCIT)</i> (pp. 1-5). IEEE.'
+    - title: '[5] <text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S. and Chakrabarty, A., 2018, December. Bitcoin price forecasting using time series analysis. In <i>2018 21st International Conference of Computer and Information Technology (ICCIT)</i> (pp. 1-5). IEEE.'
       url: 10.1109/ICCITECHN.2018.8631923
       abstract:
         show: false
