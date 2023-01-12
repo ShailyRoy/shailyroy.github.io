@@ -42,7 +42,7 @@ experiences:
   - designation: Lecturer
     start: May 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: On Leave
     # give some points about what was your responsibilities at the company.
     responsibilities:
       show: true   #if true, shows elements of respons as items
