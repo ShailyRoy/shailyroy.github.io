@@ -12,34 +12,35 @@ section:
   # hideTitle: true
 
 degrees:
-#- name: Ph.D in Quantum Cryptography
-#  icon: fa-microscope
-#  timeframe: 2016-2020
-#  institution:
-#    name: ABC University of Technology
-#    url: "#"
-#  grade: #(optional)
-#    scale: CGPA
-#    achieved: 3.6
-#    outOf: 4
-#  publications: #(optional)
-#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#    url: "#"
-#  - title: Fusce eu augue ut odio porttitor pulvinar.
-#    url: "#"
-#  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-#    url: "#"
-- name: M.Sc. in Computer Science and Engineering
-  icon: fa-graduation-cap
-  timeframe: 2020 - Present
+- name: Ph.D in Computer Science
+  icon: fa-microscope
+  timeframe: Fall 2022 - Present
   institution:
-    name: Brac University
-    url: "https://www.bracu.ac.bd/"
+    name: Syracuse University
+    url: "https://syracuse.edu"
   grade: #(optional)
-    show: true
+    show: false
     scale: CGPA
-    achieved: "4 (Thesis Pending)"
+    achieved: 3.6
     outOf: 4
+  publications: #(optional)
+    showPublications: false   #if true, will show this div
+    pubList:
+    - title: Bitcoin Price Forecasting Using Time Series Analysis
+      url: "https://ieeexplore.ieee.org/document/8631923"
+
+
+# - name: M.Sc. in Computer Science and Engineering
+#   icon: fa-graduation-cap
+#   timeframe: 2020 - Present
+#   institution:
+#     name: Brac University
+#     url: "https://www.bracu.ac.bd/"
+#   grade: #(optional)
+#     show: true
+#     scale: CGPA
+#     achieved: "4 (Thesis Pending)"
+#     outOf: 4
 
 
 - name: B.Sc. in Computer Science and Engineering

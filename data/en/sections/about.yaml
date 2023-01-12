@@ -7,23 +7,28 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
+# # your designation
+# designation1: Lecturer
+# # your company information
+# company1:
+#   name: Brac University
+#   dept: Department of CSE,
+#   url: "https://www.bracu.ac.bd/"
+
 # your designation
-designation1: Lecturer
+designation1: Ph.D. Fellow
 # your company information
 company1:
-  name: Brac University
-  dept: Department of CSE,
-  url: "https://www.bracu.ac.bd/"
+  name: <br>Syracuse University</br>
+  dept: Department of CISE,
+  url: "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science/programs/computer-information-science-engineering-doctoral-program"
 
 # a summary about you
-summaryCompany1: 'Shaily Roy is working as a lecturer in the Department of Computer Science and Engineering at Brac University from May, 2019. She has completed her undergraduate in Dec, 2018 from the same department with highest Distinction. Previously she was appointed as a lecturer in the Department of Software Engineering in Daffodil International University.
+summaryCompany1: 'Shaily Roy is studying in the Department of Computer Information Science and Engineering at Syracuse University from Fall 2022. She has been awarded the prestigious
+Syracuse University Fellowship for her extraordinary profile. Previously, she was working as a Lecturer at her Alma Mater-Brac University. She has completed her undergraduate in December, 2018 from the same department with highest Distinction. Previously she was appointed as a lecturer in the Department of Software Engineering in Daffodil International University.
 She performed as a student tutor of CSE and Mathematics in Brac University for more than 2 years. She was also a programming contestant with multiple national recognitions and arranged multiple intra university programming contests as well as programming workshops in Brac University along with other contestants and BUCC during her student life. Before graduation, she was also an instructor in an institution where students were taught hardware implementation of programming.
 Besides, she has experience of working as a software engineer in a USA based company. She is a researcher as well and has successfully presented her work in a well-known international Conference.
-After joining Brac University, she has designed and introduced a totally new elective course "CSE419: Programming Languages" in the department of CSE.
-</br>
-She has completed her undergraduate education in Computer Science Engineering, from
-Brac University in December, 2018. She is currently doing her Msc there.
-</br>'
+After joining Brac University, she has designed and introduced a totally new elective course "CSE419: Programming Languages" in the department of CSE.'
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/shailyR.pdf"
