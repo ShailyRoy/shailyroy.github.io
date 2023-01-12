@@ -3,12 +3,15 @@ section:
   name: Achievements
   id: achievements
   enable: true
-  weight: 13
+  weight: 18
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 # Your achievements achievements
 achievements:
+- title: Presenter
+  image: /images/sections/achievements/iceccme.png
+  summary: "Presented a paper on ICECCME-2021: International Conference on Electrical, Computer, Communications and Mechatronics Engineering"
 - title: Presenter
   image: /images/sections/achievements/Ms.-Shaily-Roy.jpg
   summary: "Presented a paper on ICISSC-2021: International Conference on Intelligent Systems and Sustainable Computing"
@@ -52,3 +55,8 @@ achievements:
 - title: Participant
   image: /images/sections/achievements/cert.jpg
   summary: 
+- title: Keynote Speaker
+  image: /images/sections/achievements/prog.png
+  summary: A session on Importance of programming contests. link: https://www.facebook.com/447593662694887/posts/1172411863546393/
+  
+  

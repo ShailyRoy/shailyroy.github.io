@@ -11,7 +11,28 @@ section:
 # Your experiences
 experiences:
 - company:
-    typeOfExperience: Teaching
+    typeOfExperience: Research Experience
+    name: Computer Science and Engineering, Brac University
+    url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
+    location: 66 Mohakhali, Dhaka 1212, Bangladesh
+    # company overview
+    overview: 'I am co-supervising some research teams on the following topics'
+  positions:
+  - designation: Co-supervisor
+    start:  April 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      show: true   #if true, shows elements of respons as items
+      respons:
+      - Real Time Translation from Sign Language to Written Language in both Bengali and English Language using Deep Learning, spring 2021
+      - Machine Learning Models To Predict Impacts Of Different Parenting Styles On Child’s Mental Health, summer21
+      - Conversational AI for Companionship, summer21
+      - Identification and recognition of person wearing face mask, summer21
+
+- company:
+    typeOfExperience: Teaching Experience
     name: Computer Science and Engineering, Brac University
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
@@ -19,7 +40,7 @@ experiences:
     overview: 'BracU follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times.'
   positions:
   - designation: Lecturer
-    start: May 2018
+    start: May 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -27,45 +48,44 @@ experiences:
       show: true   #if true, shows elements of respons as items
       respons:
       - Designed and developed a new course
-      - Coordinated multiple courses in online and offline semesters
+      - Coordinated Algorithms and Competitive Programming in online and offline semesters
       - Created online contents for the students
-      - Arranged workshops, webiners regarding programming and also mental health
+      - Arranged workshops, webiners regarding programming and also mental health with IEEE team , Bracu councelling centre
       - Worked as <b>Judge</b> in various clubs' competitions
-      - Co-advised clubs
-      - Co-supervised thesis groups
+      - Co-advised Brac University Computer Club
       - Performed all the adminstritive responsibilities
 
 - company:
-    typeOfExperience: Teaching
+    typeOfExperience: Teaching Experience
     name: Software Engineering Department, Daffodil International University
     url: "http://swe.daffodilvarsity.edu.bd"
     location: Dhaka
     # company overview
   positions:
   - designation: Lecturer
-    start: March 2018
-    end: May 2018
+    start: March 2019
+    end: May 2019
     responsibilities:
       show: true   #if true, shows elements of respons as items
       respons:
       - Performed all the academic and adminstritive responsibilities
 
 - company:
-    typeOfExperience: Programming
+    typeOfExperience: Programming Experience
     name: Appscode Ltd
     url: "https://appscode.com"
     location: Dhaka
     overview: "Appscode accelerates the transition to Containers by building a Kubernetes-native Data Platform. The vision of AppsCode is to make the best tools for software development available to anybody at an affordable price. " 
   positions:
   - designation: Front End Software Engineer
-    start: February 2018
-    end: March 2018
+    start: February 2019
+    end: March 2019
     responsibilities:
-      show: false
+      show: true
       respons:
-      - Wrote lots of example codes
-      - Read lots of examples
-      - See lots of example videos
+      - Wrote Lots of Codes on Javascript
+      - Read lots of blogs
+      - See lots of tutorial videos
 
 - company:
     typeOfExperience: Volunteering Experience

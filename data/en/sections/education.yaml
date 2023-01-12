@@ -42,7 +42,11 @@ degrees:
 #     achieved: "4 (Thesis Pending)"
 #     outOf: 4
 
-
+  #extracurricularActivities: #(optional)
+  extracurricular:
+    show: true
+  
+      
 - name: B.Sc. in Computer Science and Engineering
   icon: fa-graduation-cap
   timeframe: 2015 - 2018
@@ -55,13 +59,13 @@ degrees:
     achieved: 3.89
     outOf: 4
   takenCourses: #(optional)
-    showCourses: false    #if true, will show this div
-    showGrades: false     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showCourses: true    #if true, will show this div
+    showGrades: false    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     courses:
-    - name: Data Structures and Algorithm
+    - name: Programming language and Data Structures
       achieved: 4
       outOf: 4
-    - name: Network Security
+    - name: Algorithms
       achieved: 3.7
       outOf: 4
     - name: Operating System
@@ -69,6 +73,18 @@ degrees:
       outOf: 4
     - name: Artificial Intelligent
       achieved: 4
+      outOf: 4
+    - name: Machine Learning
+      achieved: 4
+      outOf: 4
+    - name: Compiler
+      achieved: 4
+      outOf: 4
+    - name: Theory of Computing
+      achieved: 4
+      outOf: 4
+    - name: Computer Archietechture
+      achieved: 3.7
       outOf: 4
   publications: #(optional)
     showPublications: true   #if true, will show this div
@@ -121,6 +137,3 @@ degrees:
     - Debate
     - Competitions
     - Sports
-    
-    
-    
