@@ -42,9 +42,9 @@ degrees:
 #     achieved: "4 (Thesis Pending)"
 #     outOf: 4
 
-  #extracurricularActivities: #(optional)
-  extracurricular:
-    show: true
+  # extracurricularActivities: #(optional)
+  # extracurricular:
+  #   show: false
   
       
 - name: B.Sc. in Computer Science and Engineering

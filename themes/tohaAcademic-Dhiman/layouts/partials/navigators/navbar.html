@@ -112,7 +112,7 @@
         {{ end }}
         {{ if $notesEnabled }}
           <li class="nav-item">
-            <a class="nav-link" id="note-link" href="{{ "https://photos.app.goo.gl/HGLLUpdXM8W844UA9" | relLangURL }}" target="_blank" rel="noopener">{{ "Moments" }}</a>
+            <a class="nav-link" id="note-link" href="{{ "/posts" | relLangURL }}" target="_blank" rel="noopener">{{ i18n "posts" }}</a>
           </li>
         {{ end }}
         {{ range $customMenus }}
