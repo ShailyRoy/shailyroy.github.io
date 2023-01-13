@@ -8,7 +8,7 @@ menu:
     identifier: path-to-my-higher-study
     # parent: sub-category
     weight: 1
-# hero: images/forest.jpg
+hero: images/forest.jpg
 ---
 ### My experience
 I have started my journey from the ending of september 2021,  attended IELTS on October. Then I worked on my SOP and LORs. Took help from seniors, friends and my teachers. Then shortlisted universities to apply according to my profile. Basically, I applied for central admission to avoid interviews. I didn't know central admission also required interview sometimes. 🤐 <br>
