@@ -73,6 +73,7 @@ Me: Told in one line <br>
 VO: Your visa has been approved. You'll get notified within two weeks of your passport collection.<br>
 ME: Thank you very much.<br>
 
+### Few words
 
 Sometimes people will discourage you saying it won't be possible to get admission in the first try. The thing is never loose hope. You try your level best.  The rest of the things will be your luck. The journey is never smooth. I got a visa interview date after trying day and night for almost 2 months. Before that, getting admission was matter of eligibility,  capability  but in case of visa date, it was all about luck which was the most stressful one so far. 
 
