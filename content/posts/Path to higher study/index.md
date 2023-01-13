@@ -1,6 +1,6 @@
 ---
 title: "Path to Higher Study"
-date: 2020-06-08T08:06:25+06:00
+date: 2023-01-12T21:58:36-05:00
 description: My personal experience blended with thoughts ans opinions
 menu:
   sidebar:
