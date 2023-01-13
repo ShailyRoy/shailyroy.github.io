@@ -14,15 +14,6 @@ menu:
 I have started my journey from the ending of september 2021,  attended IELTS on October. Then I worked on my SOP and LORs. Took help from seniors, friends and my teachers. Then shortlisted universities to apply according to my profile. Basically, I applied for central admission to avoid interviews. I didn't know central admission also required interview sometimes. 🤐 <br>
 Then again I mailed some faculties of different universities as suggested by my well wishers. Some of them replied and some of them didn't.
 
-Sometimes people will discourage you saying it won't be possible to get admission in the first try. The thing is never loose hope. You try your level best.  The rest of the things will be your luck. The journey is never smooth. I got a visa interview date after trying day and night for almost 2 months. Before that, getting admission was matter of eligibility,  capability  but in case of visa date, it was all about luck which was the most stressful one so far. 
-
-Btw, don't forget to contact the coordinators to waive your application fee.
-
-However, the next top USA group is a treasure for every applicant. I am thankful to this group and every single person who supported me throughout this journey.....
-
-Best of luck to all the applicants. I pray and hope that the best things happen to each and every one of you.
-
-
 ### My Profile when I applied
 - B.Sc. in CSE (BRAC University)<br>CGPA of highest distinction
 - MSc in CSE (BRAC University)<br>CGPA of highest distinction (completed the coursework, thesis pending)
@@ -83,7 +74,13 @@ VO: Your visa has been approved. You'll get notified within two weeks of your pa
 ME: Thank you very much.<br>
 
 
+Sometimes people will discourage you saying it won't be possible to get admission in the first try. The thing is never loose hope. You try your level best.  The rest of the things will be your luck. The journey is never smooth. I got a visa interview date after trying day and night for almost 2 months. Before that, getting admission was matter of eligibility,  capability  but in case of visa date, it was all about luck which was the most stressful one so far. 
 
+By the way, <b>don't forget to contact the coordinators to waive your application fee</b>. For tips, you can always email me. :)
+
+However, the next top USA group is a treasure for every applicant. I am thankful to this group and every single person who supported me throughout this journey.
+
+Best of luck to all the applicants. I pray and hope that the best things happen to each and every one of you.
 
 
 
