@@ -1,5 +1,0 @@
-{{ $image       :=  (index site.Data site.Language.Lang).site.openGraph.image | default  (index site.Data site.Language.Lang).author.image }}
-
-
-<!-- ============ open graph tags ========== -->
-<meta property="og:image" content="{{ $image | absURL }}">
