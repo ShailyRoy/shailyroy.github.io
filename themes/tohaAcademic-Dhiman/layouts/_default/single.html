@@ -8,6 +8,9 @@
 <link rel="stylesheet" href="{{ "/css/navigators/sidebar.css" | relURL }}">
 <!--================= custom style overrides =========================-->
 <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}"/>
+{{ $image       :=  (index site.Data site.Language.Lang).site.openGraph.image | default  (index site.Data site.Language.Lang).author.image }}
+<meta property="og:image" content="{{ $image | absURL }}">
+
 
 {{ end }}
 
