@@ -1,7 +1,8 @@
 ---
 title: "Path to Higher Study"
 date: 2023-01-12T21:58:36-05:00
-description: My personal experience blended with thoughts ans opinions
+description: A guide to pepare for higher studies
+image: https://shailyroy.github.io/files/forOG.webp
 menu:
   sidebar:
     name: Path to Higher Study
