@@ -22,7 +22,7 @@ Then again I mailed some faculties of different universities as suggested by my 
 - IELTS: 7 <br>
 - Publications: 3 (Conference 2 as first author, 1 as second author)
 Citations: 26 
-- Work Experience: 1 month in a software company,  3 month as a full time lecturer at a private university, 3 years as a Full-Time Lecturer at own university.
+- Work Experience: 1 month in a software company,  3 month as a full time lecturer at Daffodil International university, 3 years as a Full-Time Lecturer at Brac university.
 - Research Interest: ML,  AI <br>
 I have programming contest background during my student life,  not sure how much weight it carried here. 
 
@@ -78,7 +78,7 @@ ME: Thank you very much.<br>
 
 Sometimes people will discourage you saying it won't be possible to get admission in the first try. The thing is never loose hope. You try your level best.  The rest of the things will be your luck. The journey is never smooth. I got a visa interview date after trying day and night for almost 2 months. Before that, getting admission was matter of eligibility,  capability  but in case of visa date, it was all about luck which was the most stressful one so far. 
 
-By the way, <b>don't forget to contact the coordinators to waive your application fee</b>. For tips, you can always email me. :)
+By the way, <b>don't forget to contact the coordinators to waive your application fee</b>.
 
 However, the next top USA group is a treasure for every applicant. I am thankful to this group and every single person who supported me throughout this journey.
 
