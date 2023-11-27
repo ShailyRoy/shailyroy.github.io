@@ -11,9 +11,35 @@ menu:
     weight: 1
 hero: images/forest.jpg
 ---
-### My experience
-I have started my journey from the ending of september 2021,  attended IELTS on October. Then I worked on my SOP and LORs. Took help from seniors, friends and my teachers. Then shortlisted universities to apply according to my profile. Basically, I applied for central admission to avoid interviews. I didn't know central admission also required interview sometimes. 🤐 <br>
-Then again I mailed some faculties of different universities as suggested by my well wishers. Some of them replied and some of them didn't.
+### Step by Step
+Exploring the world beyond academics! I'm certainly not an expert, and there are many individuals out there achieving much more in diverse fields! Many are thriving in amazing places! It's quite impressive! However, I'm content with my average achievements. :p Still, some have inquired, so I thought of penning down a post! If it helps anyone, that's great!
+
+Essentially, venturing beyond academics doesn't necessarily mean pursuing a new job or a career goal! It might be a path where the destination is unclear, and perhaps, no one really knows where it leads! In my opinion, it's a journey where assistance is needed at every stage! There's a lot of uncertainty, so mental stability is crucial!
+
+### GRE/IELTS
+I have started my journey from the ending of september 2021. I haven't taken the GRE, so I can't provide insights on that. Many universities in the USA have waived the GRE requirement due to the pandemic, and some have made it optional. If you can take the GRE, it's definitely a plus. However, a strong profile without GRE is also worth considering! Information related to GRE waivers can be found by searching in higher studies fb groups. As for IELTS, watching English movies extensively is beneficial. Practice from the website IELTS online tests and follow tutorials from Liz, youtubers. Personal efforts are essential, and online resources are abundant. I started my preparation in September, took the test in October. I was a full time lecturer , so managing time was challenging, practiced IELTS things outside of office hours, got a good amount of support from the family. I'm not an avid English movie watcher, so I had to put in extra effort! What I gained from the process makes me happy!
+
+### SOP/LOR 
+For writing the SOP, it's crucial to read many SOPs. Afterward, craft your own! Some prefer having others read it after the initial draft. In my case, after reading, rewriting felt better! Searching for sample SOPs in groups like "Next Top USA" yields plenty of resources. SOPs should be updated according to each university's requirements, try to relate your research with the university faculties which helps for better chance. Regarding LOR, it's advisable to draft one yourself, and faculty members can make changes according to their perspective. You are the one who knows the best about your profile. Try to ssupport your statements with proof in the LOR. Writing three/four different formats for three LORs is good practice. It helps if faculty members can recognize you, so recommendation requests should be made wisely. Having at least seven recommenders is a good strategy for multiple universities. Reminders from your side are essential, as faculty members are often busy. When communicating with recommenders, maintain a formal and respectful tone to convey professionalism and gratitude. To streamline the recommendation process, consider completing all your university applications before reaching out. Seek explicit permission from recommenders before including their names, ensuring they are aware of the commitment. 
+
+### CV/Resume/Website
+It's essential to create a CV/Resume in LaTeX. A personal website on GitHub is also helpful, and using Google Analytics to track visits enhances your profile. When people from outside the country visit your website, it leaves a positive impression. The website acts as your portfolio! Emphasize your strong points in the CV, and detailed information about high school and secondary school isn't necessary. Minimal personal information, such as phone number and email address, is sufficient. Avoid unnecessary details like parents' names and birth dates. In the context of outside work or technology-related activities, having a publication is good, but if you don't have one, preprints using EasyChair for project papers are an option. Some universities are very interested in diversity, so mentioning extracurricular activities, especially for women in technology, is important. Contests, Olympiads, and similar achievements should be highlighted. Any work or gap years should be briefly mentioned. Not having any study gaps is also a plus!
+
+For a website demo, here is mine: shailyroy.github.io
+
+### University Selection
+I have primarily relied on online websites to find universities that match my profile. I have applied to universities where people I know are studying. I love to be with people and I am an ambivert person , So tried to be in the safe side. It is always helpful to have some known people around you in abroad. But if you can't make it, don't worry. I also came in a complete new place where I knew none. Initially I struggled, tried to connect with new people via social media even before coming to make things comfortable for me , networking is really important to survive here and finally got a circle to hangout later. I have also applied to places where my relatives and friends are applying. I admit I have been somewhat casual about the process and haven't conducted intense research. I have often sought help from my friends and seniors when needed.
+
+The application fee is really high when you apply to multiple universities. Be prepared for that. Sometimes I requested a fee waiver due to financial constraints from the co-ordinators and they approved. The application process has taken time, and I had to be very patient. The deadlines for most universities were around December 15th, but some accepted applications until March.
+
+After submitting applications, I waited, and in late January, I started receiving emails for interviews. I emphasized the importance of researching professors and being well-prepared for interviews. Weather considerations for the location of the university were also important. If the interview went well, there was hope for a positive outcome. 
+
+Before applying, it was crucial to write a well-crafted email to professors expressing interest in joining their research. Although not all universities required it, many interviews were necessary. I personally received offers from two universities after interviews. Others were central.
+
+Additionally, getting funding directly from professors could increase the chances of acceptance. But don't rely on the verbal promise. Celebrations followed when receiving I-20 offer letters, but the visa process was challenging.
+
+Rejection chances were high (80%) once the universities started releasing results. Mental preparation was crucial to deal with potential disappointments. When multiple offers came in, selecting a university based on personal preference completed the process. 
+
 
 ### My Profile when I applied
 - B.Sc. in CSE (BRAC University)<br>CGPA of highest distinction
