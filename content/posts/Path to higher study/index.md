@@ -118,12 +118,13 @@ You will find everything in USA, but initially it hurts to spend so much money t
 Here is the shopping list that people must buy before coming here.
 The shopping list depends on state weather. Also if you are going to live alone, you must bring some basic things as you can't lend anything from roommates.
 
-#### Bags
+#### Luggages
 1. 2 28inch luggage which can cover 23 kgs. try to buy good brand. 1 bag (hard shell) costed around 10k another one (softshell) 7k.
 2. 1 carry on bag of 20inch (it is not needed but recommended to take as it is easy to carry 7kg), It will cost around 6k.
-3. you can take another backpack for carrying laptops and other devices. they never weight the backpack.
-4. NEck pellow and sleeping mask. (as it will be a long journey, you can bring these for comfort)
-5. keep moisturizer in your handbag as it is colder in plane
+3. you can take another backpack for carrying laptops and other devices. they sometimes don't weight the backpack.
+4. NEck pellow and sleeping mask. (as it will be a long journey, you can bring these for comfort but at the end of the journey it feels like too much staff to carry :| )
+5. keep travel size moisturizer in your handbag as it is colder in plane
+6. Wear comfortable dress while flying , keep a hoodie in the carry on so that you don't feel cold
 
 #### Outfits
 1. Bring a lot of outfits with soft color and simple designs. here cloths are very costly compared to our country and quality is not that different. Normally people wear very basic colors. In fall, they love floral designs. 
@@ -131,7 +132,7 @@ The shopping list depends on state weather. Also if you are going to live alone,
 3. Several traditional outfits if you love to wear these.People enjoy fall color here. So bring cute yellow dresses. For snowfall , bring blue or red saree/dress. 
 4. 6 to 7 trousers as it is comfortable and you can wear it anywhere.
 5. 9 to 10 undergarments as you will never find these here with 100 to 200 taka.
-6. minimum 1 JAcket and 4 Sweaters if you are going to colder states. You will buy it here as well. but deshi clothes are really good.
+6. Maximum 1 JAcket and 4 Sweaters if you are going to colder states. You will buy it here as well. but deshi clothes are really good.
 7. 10 to 12 half and full pants including jeans or any other materials and styles
 8. One shoe is enough to bring as in USA you will get better options. Try to bring 1 hill/sandle to wear with traditional dresses.
 9. bring a good Umbrella for initial days. you can bring raincoat if you are confortable.
@@ -142,7 +143,7 @@ The shopping list depends on state weather. Also if you are going to live alone,
 1. You must buy an USA adapter if you are bringing your laptop and other deshi devices that doesn't support US plugs. it looks like this:
 https://www.electricalsafetyfirst.org.uk/guidance/advice-for-you/when-travelling/travel-adaptor-for-usa/#:~:text=For%20USA%20there%20are%20two,120V%20supply%20voltage%20and%2060Hz.
 You can buy the converted in multiplan shop. the price is reasonable there. arounf 200 taka may be. in Bcity they ask an insane price.
-2. One multiplug 
+2. One multiplug which supports US plugs.
 3. Power banks are costly in USA. 
 4. If you are woman, bring electric hot bag for period pains. you can find this in Daraz within 250 taka. here the cost is insane.
 Don't forget to bring sanitary napkins which will cover at least 2 months, it takes time to get adopted with their pads.
@@ -216,14 +217,25 @@ After arriving USA, buy a sim card (recommended mint or h20 for reasonable cost)
 
 Sometimes people will discourage you saying it won't be possible to get admission in the first try. The thing is never loose hope. You try your level best.  The rest of the things will be your luck. The journey is never smooth. I got a visa interview date after trying day and night for almost 2 months. Before that, getting admission was matter of eligibility,  capability  but in case of visa date, it was all about luck which was the most stressful one so far. 
 
+Another important thing you should know is "missing a flight is okay. sometimes it can happen. don't panic. talk to the representative calmly. share your concerns . they will try their best to help you out."
+
 By the way, <b>don't forget to contact the coordinators to waive your application fee</b>.
 
 However, the next top USA group is a treasure for every applicant. I am thankful to this group and every single person who supported me throughout this journey.
 
 Best of luck to all the applicants. I pray and hope that the best things happen to each and every one of you.
 
+### How is my initial days in USA?
+November, 2022
+Arriving here all by myself was a daunting experience, especially considering the worst flight experiences. For the initial seven days, I found myself in a continuous state of tears, overwhelmed by a sense of helplessness in this unfamiliar environment. Opting for a single furnished studio, I embarked on this journey entirely alone, marking a rather disheartening beginning. However, as time progressed, I had the opportunity to connect with individuals who arrived around the same time as I did. Engaging with people I had previously interacted with on social media became a turning point. Despite knowing no one initially, I eventually forged connections with like-minded individuals, which played a crucial role in overcoming the initial phase of loneliness. Organizing gatherings, sharing delicious homemade meals, and receiving support from this newfound community significantly alleviated the early struggles. This shift from solitude to a supportive social circle proved instrumental in transforming those initial challenging days into a more positive and enriching experience.
 
-
+Now, I genuinely enjoy being in the USA. The level of freedom and security I experience in this country is something I had never felt before. As a girl, the extra insecurities that I used to associate with being independent and safe were non-existent in my own country. Courage, like going alone to the bus station at 3 am, was something I never had before, but it feels effortless here! Despite the expenses, managing everything is quite easy. The worries I had about the long distance in the country were not true at all.
+ Regarding academics, the pressure of exams and assignments is present throughout the week. Despite the academic pressure, the teachers are incredibly supportive. They patiently respond to emails about minor issues, and although many assignments are challenging, most of them are always there to help. Each course has a separate teaching assistant, and they are also available for assistance.
+I didn't start solo research immediately, my professor made sure I learn from my seniors first, and seniors have been instrumental in guiding me. The help may not be available later, so it's essential to learn as much as possible now. 
+Regarding household chores, I am not too bothered. I used to do everything when I was in Dhaka as well. I manage things my way, and if I get bored with cooking occasionally, I can always order food from outside. 
+Despite being expensive, there's always something to do if you have the will to explore. The surroundings are beautiful with waterfalls, mountains, lakes, and parks nearby, especially if you have a car.
+Among all the positives, there is one issue that bothers me—the transportation system. You need a car to move and public transportation is the worst part of Syracuse.
+However, I miss the people and food of my country! There is no alternative to that. In reality, amidst all these pressures, there is no time to miss so much. 😬 But if I have to say that I miss something from the country, these come to mind first! :3
 <!-- This sample post tests the followings:
 
 - Category, sub-category nesting in the sidebar.
