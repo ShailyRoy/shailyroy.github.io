@@ -25,50 +25,42 @@ publicationList:
 - publication:
     type: Conference Publications               #Journal or Conference or Book Chapter
   entry:                                       #add - title here
-    - title: '[1] Bismoy, M.I., Shahrear, F., Mitra, A., Bikash, D.M., Afrin, F., <text style="color: #aa4e24">Roy, S.</text> and Arif, H., 2022, November. Image Translation of Bangla and English Sign Language to Written Language using Convolutional Neural Network. In <i>2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)</i> (pp. 1-6). IEEE.'
+    - title: 'Kalanadhabhatta, M.,  <text style="color: #aa4e24">Roy, S.</text>, Grant, T., Salekin, A., Rahman, T., & Bergen-Cico, D. (2023, September). Detecting PTSD Using Neural and Physiological Signals: Recommendations from a Pilot Study. In 2023 11th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-8). IEEE.'
+      url: 10.1109/ACII59096.2023.10388200
+      abstract:
+        show: false
+        text: journal paper 2 abstract
+    
+    - title: 'Bismoy, M.I., Shahrear, F., Mitra, A., Bikash, D.M., Afrin, F., <text style="color: #aa4e24">Roy, S.</text> and Arif, H., 2022, November. Image Translation of Bangla and English Sign Language to Written Language using Convolutional Neural Network. In <i>2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)</i> (pp. 1-6). IEEE.'
       url: 10.1109/ICECCME55909.2022.9988088
       abstract:
         show: false
         text: journal paper 2 abstract
 
-    - title: '[2] Al Taawab, A., Rahman, M., Islam, Z., Mustari, N., <text style="color: #aa4e24">Roy, S.</text> and Alam, M.G.R., 2022, October. Detecting Self-Esteem Level and Depressive Indication Due to Different Parenting Style Using Supervised Learning Techniques. In <i>2022 9th International Conference on Behavioural and Social Computing (BESC)</i> (pp. 1-6). IEEE.'
+    - title: 'Al Taawab, A., Rahman, M., Islam, Z., Mustari, N., <text style="color: #aa4e24">Roy, S.</text> and Alam, M.G.R., 2022, October. Detecting Self-Esteem Level and Depressive Indication Due to Different Parenting Style Using Supervised Learning Techniques. In <i>2022 9th International Conference on Behavioural and Social Computing (BESC)</i> (pp. 1-6). IEEE.'
       url: 10.1109/BESC57393.2022.9995147
       abstract:
         show: false
         text: journal paper 2 abstract
 
-    - title: '[3] Tahsin, L. and <text style="color: #aa4e24">Roy, S.</text>, 2022. Prediction of COVID-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based on SIR Epidemiological Model. In <i>Intelligent Systems and Sustainable Computing</i> (pp. 69-78). Springer, Singapore.'
+    - title:  '<text style="color: #aa4e24">Roy, S.</text>  and Tahsin, L., 2022. Prediction of COVID-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based on SIR Epidemiological Model. In <i>Intelligent Systems and Sustainable Computing</i> (pp. 69-78). Springer, Singapore.'
       url: 10.1007/978-981-19-0011-2_7
       abstract:
         show: false
         text: journal paper 2 abstract
 
-    - title: '[4] Ahmed, S., <text style="color: #aa4e24">Roy, S.</text> and Alam, G.R., 2021, October. Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method. In <i>2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)</i> (pp. 1-6). IEEE.'
+    - title: 'Ahmed, S., <text style="color: #aa4e24">Roy, S.</text> and Alam, G.R., 2021, October. Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method. In <i>2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)</i> (pp. 1-6). IEEE.'
       url: 10.1109/ICECCME52200.2021.9591153
       abstract:
         show: false
         text: journal paper 2 abstract
 
-    - title: '[5] Ahmed S., <text style="color: #aa4e24">Roy, S.</text>, Rabiul G., 2021. Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method.'
-      url:
-      abstract:
-        show: false
-        text: journal paper 2 abstract
         
-    - title: '[6] <text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S. and Chakrabarty, A., 2018, December. Bitcoin price forecasting using time series analysis. In <i>2018 21st International Conference of Computer and Information Technology (ICCIT)</i> (pp. 1-5). IEEE.'
+    - title: ' <text style="color: #aa4e24">Roy, S.</text> , Nanjiba, S., & Chakrabarty, A. (2018, December). Bitcoin price forecasting using time series analysis. In 2018 21st International Conference of Computer and Information Technology (ICCIT) (pp. 1-5). IEEE.'
       url: 10.1109/ICCITECHN.2018.8631923
       abstract:
         show: false
-        text: 'It was my undergraduate thesis project. Over the past few years, 
-        Bitcoin has been a topic of interest of many, from academic researchers to trade investors. 
-        Bitcoin is the first as well as the most popular cryptocurrency till date. Since its launch 
-        in 2009, it has become widely popular amongst various kinds of people for its trading system 
-        without the need of a third party and also due to high volatility of Bitcoin price. 
-        In this paper, we propose a suitable model that can predict the market price of Bitcoin 
-        best by applying a few statistical analysis. Our work is done on four years bitcoin data 
-        from 2013 to 2017 based on time series approaches especially autoregressive integrated moving 
-        average (ARIMA) model and the work finally could acquire an accuracy of 90% for deciding 
-        volatility in weighted costs of bitcoin in the short run.'
+        text: 'It was my undergraduate thesis project.'
 
 #- publication:
 #    type: Book Chapter               #Journal or Conference or Book Chapter
