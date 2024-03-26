@@ -39,12 +39,9 @@ degrees:
   grade: #(optional)
     show: true
     scale: CGPA
-    achieved: "4 
+    achieved: 4 
     outOf: 4
 
-  extracurricularActivities: #(optional)
-  extracurricular:
-    show: false
   
       
 - name: B.Sc. in Computer Science and Engineering
