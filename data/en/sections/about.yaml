@@ -16,21 +16,19 @@ section:
 #   url: "https://www.bracu.ac.bd/"
 
 # your designation
-designation1: Ph.D. Fellow
+designation1: Ph.D. Fellow and Graduate Research Associate
 # your company information
 company1:
-  name: <br>Syracuse University</br>
-  dept: Department of CISE,
-  url: "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science/programs/computer-information-science-engineering-doctoral-program"
+  name: <br>Arizona State University</br>
+  dept: CSE,
+  url: "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd?init=false&nopassive=true"
 
 # a summary about you
-summaryCompany1: 'Shaily Roy is studying in the Department of Computer Information Science and Engineering at Syracuse University from Fall 2022. She has been awarded the prestigious
-Syracuse University Fellowship for her extraordinary profile. Previously, she was working as a Lecturer at her Alma Mater-Brac University. She has completed her undergraduate in 
-December, 2018 from the same department with highest Distinction. She was also appointed as a lecturer in the Department of Software Engineering in Daffodil International 
-University. She performed as a student tutor of CSE and Mathematics in Brac University for more than 2 years. She was also a programming contestant with multiple national 
-recognitions and arranged multiple intra university programming contests as well as programming workshops in Brac University along with other contestants and BUCC during her 
-student life. Before graduation, she was also an instructor in an institution where students were taught hardware implementation of programming.
-Besides, she has experience of working as a software engineer in a USA based company. She has successfully presented her work in a well-known international conference.'
+summaryCompany1: 'I am currently a PhD student at Arizona State University (ASU) as of Fall 2024, having transferred from Syracuse University. I received the Fulton Fellowship and a position as a Graduate Research Associate at ASU, allowing me to continue my PhD studies. Since Fall 2022, I had been studying in the Department of Computer Information Science and Engineering at Syracuse University, where I was awarded the prestigious Syracuse University Fellowship in recognition of my achievements.
+
+Before my PhD journey, I worked as a Lecturer at my Alma Mater, BRAC University, where I graduated with the highest distinction in December 2018.  In 2023, I earned my thesis-based master’s degree from the same department with a perfect CGPA of 4.0. Additionally, I was appointed as a Lecturer in the Department of Software Engineering at Daffodil International University. During my time as a student at BRAC University, I served as a tutor for CSE and Mathematics for over two years. I was also actively involved in competitive programming, earning multiple national recognitions. I co-organized several intra-university programming contests and workshops with other contestants and the BRAC University Computer Club (BUCC).
+
+Before graduation, I also taught hardware implementation of programming and gained experience as a software engineer at a USA-based company. Furthermore, I successfully presented my research at a renowned international conference.'
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/shailyR.pdf"
