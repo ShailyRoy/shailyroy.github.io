@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 18
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+# Your achievements achievements
+achievements:
+- title: Presenter
+  image: /images/sections/achievements/iceccme.png
+  summary: "Presented a paper on ICECCME-2021: International Conference on Electrical, Computer, Communications and Mechatronics Engineering"
+- title: Presenter
+  image: /images/sections/achievements/Ms.-Shaily-Roy.jpg
+  summary: "Presented a paper on ICISSC-2021: International Conference on Intelligent Systems and Sustainable Computing"
+- title: Champion
+  image: /images/sections/achievements/pAlo-2018_02_03_16_1_b.jpg
+  summary: Champion in Inter University Girls' Programming Contest.
+- title: VC Certified
+  image: /images/sections/achievements/vc.png
+  summary: Got Certification from VC for high standard discipline in Residential Semester
+- title: "Winner"
+  image: /images/sections/achievements/b.jpg
+  summary: Participated in a National Girls' Programming Contest and got 4th Position
+- title: Winner
+  image: /images/sections/achievements/codeit.png
+  summary: Participating in a National Girls' Contest and got 3rd position
+- title: Winner
+  image: /images/sections/achievements/adal.png
+  summary: Participated in a National Women Online Contest and got 4th Position
+- title: Presenter
+  image: /images/sections/achievements/tarc.jpg
+  summary: Successfully started Programming course as RS activity in Sava Residential Campus of Bracu.
+
+- title: Presenter
+  image: /images/sections/achievements/paper.jpg
+  summary: Successfully presented Conference Paper in ICCIT2018.
+- title: Instructor
+  image: /images/sections/achievements/win.png
+  summary: Successfully performed as an instructor in IEEE Programming workshop, Presented workshop details on behalf of the students.
+- title: Presenter
+  image: /images/sections/achievements/presenter.jpg
+  summary: 'Successfully completed workshops'
+- title: Participant
+  image: /images/sections/achievements/contest.jpeg
+  summary: Participating in a National Contest.
+- title: Participant
+  image: /images/sections/achievements/icpc.jpg
+  summary: Participated in icpc regional 2018.
+- title: 'Certified Android Dev'
+  image: /images/sections/achievements/android.jpg
+  summary: 'Certified as Android Developer from Bracu Chair person Haidar Ali Sir'
+- title: Participant
+  image: /images/sections/achievements/cert.jpg
+  summary: 
+- title: Keynote Speaker
+  image: /images/sections/achievements/prog.png
+  summary: 'A session on Importance of programming contests. link: https://www.facebook.com/447593662694887/posts/1172411863546393/'
+  
+  
