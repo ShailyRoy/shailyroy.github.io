@@ -19,9 +19,9 @@ degrees:
     name: Arizona State University
     url: "https://www.asu.edu/"
   grade: #(optional)
-    show: false
+    show: true
     scale: CGPA
-    achieved: 3.6
+    achieved: 4
     outOf: 4
   publications: #(optional)
     showPublications: false   #if true, will show this div
