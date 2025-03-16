@@ -16,12 +16,12 @@ experiences:
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
     # company overview
-    overview: 'I am co-supervising some research teams on the following topics'
+    overview: 'I was co-supervising some research teams on the following topics'
   positions:
   - designation: Co-supervisor
     start:  April 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Dec 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
       show: true   #if true, shows elements of respons as items
@@ -86,6 +86,21 @@ experiences:
       - Wrote Lots of Codes on Javascript
       - Read lots of blogs
       - See lots of tutorial videos
+      
+- company:
+    typeOfExperience: Volunteering Experience
+    name: Bangladesh Student Association, Arizona State University
+    url: ""
+    location: Tempe, Arizona, USA
+  positions:
+  - designation: Graduate Secretary
+    start: December 2024
+    end: December 2025
+    responsibilities:
+      show: true
+      respons:
+      - Lead multiple events including Spring Fest, Saraswati Puja, Pohela Boishakh, Indoor Game, Durga Puja, Cultural night, Eid Programs
+      - Handled Communication with the authorities
 
 - company:
     typeOfExperience: Volunteering Experience
@@ -102,3 +117,4 @@ experiences:
       respons:
       - Worked on some R&D projects
       - Helped students learning Arduino Programming
+    
