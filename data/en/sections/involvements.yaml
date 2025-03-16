@@ -1,0 +1,84 @@
+# section information
+section:
+  name: Involvements
+  id: involvements
+  enable: true
+  weight: 11
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: BSA-ASU Graduate Secretary
+  timeline: "December 2024 - December 2025"
+  organization:
+    name: Bangladesh Student Association, ASU
+    url: https://asu.campuslabs.com/engage/organization/bangladesh-students-association-bsa
+  courseOverview: "Arranged multiple events under the banner of ASU"
+  certificateURL: "https://youtu.be/hepaTcXkZE4?si=_V0MNVuglGXe223r"
+  certificateURL2: "https://youtu.be/woFRcAACcdY?si=NeXcGb4GFzGXbpSN"
+
+  
+- name: Brac University Computer Club Co-advisor
+  timeline: "December 2018 - August 2022"
+  organization:
+    name: Brac University Computer Club
+    url: https://bracucc.org/teacher/shaily-roy/
+  courseOverview: 'BRAC University Computer Club (BUCC) is the oldest club of BRAC university. This club consists of a youthful team of passionate and hardworking Tech Enthusiast students.'
+  certificateURL: "https://bracucc.org/teacher/shaily-roy/"
+  certificateURL2: "https://www.facebook.com/BRACUCC/videos/1049705038765412/"
+  certificateURL3: "https://ne-np.facebook.com/BRACUCC/videos/bucc-webinar-state-of-ict-education-in-bangladesh-and-future-opportunities/592906194753922/"
+  certificateURL4: ""
+
+- name: Course Co-ordinator
+  timeline: "Jun 2020 - August 2022"
+  organization:
+    name: Brac University
+    url: 'https://bux.bracu.ac.bd/courses/course-v1:buX+CSE221+2021_Summer/about'
+  courseOverview: "Performed all the responsibilities of Course-Co-ordinator of Algorithms and Programming Languages Courses"
+  certificateURL: "https://bux.bracu.ac.bd/courses/course-v1:buX+CSE419+2020_Summer/about"
+  certificateURL2: "https://bux.bracu.ac.bd/courses/course-v1:buX+CSE221+2021_Summer/about"
+  certificateURL3: ""
+  certificateURL4: ""
+- name: Content Creator
+  timeline: "Jun 2020 - present"
+  organization:
+    name: Youtube
+    url: 'https://youtube.com/playlist?list=PLNDrhDXd0Qt_kjQ3zPEC1B6GtA9Os2ra9'
+  courseOverview: "Tried to make Programming Related Contents for Students"
+  certificateURL: "https://youtube.com/playlist?list=PLNDrhDXd0Qt9J_ZlWCgvt-FHm28G0Kiaf"
+  certificateURL2: "https://youtube.com/playlist?list=PLNDrhDXd0Qt_kjQ3zPEC1B6GtA9Os2ra9"
+  certificateURL3: "https://youtube.com/playlist?list=PLNDrhDXd0Qt-_xoq7XZySU6DvS2B8nnn6"
+  certificateURL4: "https://youtube.com/playlist?list=PLNDrhDXd0Qt-AAQ1Q1-A0FLJ9JWf6XFwp"
+
+- name: Judge and Instructor
+  timeline: "March 2017 - August 2022"
+  organization:
+    name: Brac university Other Clubs
+    url: http://ieeebracu.com/ieeextreme-12-0-workshop/
+  courseOverview: Took workshop for online contests and also performed as judge on various competitions arranged by Bracu IEEE Student Chapter, Bracu natural Science Club, Bracu Counselling Unit.
+  certificateURL: "http://ieeebracu.com/ieeextreme-12-0-workshop/"
+  certificateURL2: "https://www.facebook.com/BRACUCC/videos/1049705038765412/"
+  certificateURL3: "http://ieeebracu.com/wp-content/uploads/2020/12/CS-Newsletter-2020.pdf"
+  certificateURL4: "https://www.facebook.com/bracuexpress/posts/3392657780816608"
+
+- name: Thesis Co-supervisor
+  timeline: "Jun 2020 - August 2022"
+  organization:
+    name: Brac University
+    url: 'www.bracu.ac.bd'
+  courseOverview: "Currently co-supervising more than 4 research groups of different topic from Data Science"
+  certificateURL: ""
+
+- name: Mozilla Firefox QA Team
+  timeline: "Nov 2017 - Mar 2018"
+  organization:
+    name: Mozilla
+    url: https://quality.mozilla.org/2016/02/firefox-45-beta-3-testday-results/
+  courseOverview: Worked with Bangladesh Mozilla Quality Assurance Team volunteerily
+  certificateURL: "https://quality.mozilla.org/2016/02/firefox-45-beta-3-testday-results/"
+  certificateURL2: ""
+  certificateURL3: ""
+  certificateURL3: ""
