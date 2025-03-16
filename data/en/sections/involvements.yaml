@@ -11,8 +11,17 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: BSA-ASU Graduate Secratory
+  timeline: "December 2024 - December 2025"
+  organization:
+    name: Bangladesh Student Association, ASU
+    courseOverview: "Arranged multiple events under the banner of ASU"
+    certificateURL: "https://youtu.be/hepaTcXkZE4?si=_V0MNVuglGXe223r"
+    certificateURL: "https://youtu.be/woFRcAACcdY?si=NeXcGb4GFzGXbpSN"
+
+  
 - name: Brac University Computer Club Co-advisor
-  timeline: "December 2018 - Present"
+  timeline: "December 2018 - August 2022"
   organization:
     name: Brac University Computer Club
     url: https://bracucc.org/teacher/shaily-roy/
@@ -23,7 +32,7 @@ accomplishments:
   certificateURL4: ""
 
 - name: Course Co-ordinator
-  timeline: "Jun 2020 - present"
+  timeline: "Jun 2020 - August 2022"
   organization:
     name: Brac University
     url: 'https://bux.bracu.ac.bd/courses/course-v1:buX+CSE221+2021_Summer/about'
@@ -44,7 +53,7 @@ accomplishments:
   certificateURL4: "https://youtube.com/playlist?list=PLNDrhDXd0Qt-AAQ1Q1-A0FLJ9JWf6XFwp"
 
 - name: Judge and Instructor
-  timeline: "March 2017 - Present"
+  timeline: "March 2017 - August 2022"
   organization:
     name: Brac university Other Clubs
     url: http://ieeebracu.com/ieeextreme-12-0-workshop/
@@ -55,7 +64,7 @@ accomplishments:
   certificateURL4: "https://www.facebook.com/bracuexpress/posts/3392657780816608"
 
 - name: Thesis Co-supervisor
-  timeline: "Jun 2020 - present"
+  timeline: "Jun 2020 - August 2022"
   organization:
     name: Brac University
     url: 'www.bracu.ac.bd'
