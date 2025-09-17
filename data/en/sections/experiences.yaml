@@ -9,22 +9,76 @@ section:
   # hideTitle: true 
 
 # Your experiences
+# experiences:
+# - company:
+#     typeOfExperience: Research Experience
+#     name: Computer Science and Engineering, Brac University
+#     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
+#     location: 66 Mohakhali, Dhaka 1212, Bangladesh
+#     # company overview
+#     overview: 'I was co-supervising some research teams on the following topics'
+#   positions:
+#   - designation: Co-supervisor
+#     start:  April 2020
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     end: Dec 2022
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#       show: true   #if true, shows elements of respons as items
+#       respons:
+#       - Real Time Translation from Sign Language to Written Language in both Bengali and English Language using Deep Learning, spring 2021
+#       - Machine Learning Models To Predict Impacts Of Different Parenting Styles On Child’s Mental Health, summer21
+#       - Conversational AI for Companionship, summer21
+#       - Identification and recognition of person wearing face mask, summer21
 experiences:
+- company:
+    typeOfExperience: Research Experience
+    name: Ubiquitous & Intelligent Sensing Lab, Ira A. Fulton Schools of Engineering – SBHSE, Arizona State University
+    url: "https://uislab.github.io/"
+    location: Tempe, AZ, USA
+    overview: "Graduate research on ethical AI, federated learning, and multimodal stress sensing"
+  positions:
+  - designation: Graduate Research Associate & Fulton Fellow
+    start: 2024
+    end: Present
+    responsibilities:
+      show: true
+      respons:
+      - Conducted research on Ethical and Human-centered AI, focusing on subgroup fairness and equity
+      - Developed Federated Learning frameworks without relying on demographic attributes
+      - Led multimodal stress sensing studies using Oura Ring, UWB band, Empatica E4, thermal/RGB cameras, and audio
+      - Explored personalization strategies for adapting models to individual contexts
+      - Integrated commonsense reasoning for interpretability and robustness in ubiquitous computing
+
+- company:
+    typeOfExperience: Research Experience
+    name: Electrical Engineering and Computer Science, Syracuse University
+    url: "https://ecs.syracuse.edu/"
+    location: Syracuse, NY, USA
+    overview: "Graduate fellowship focused on multimodal machine learning, sensing, and HPC pipelines"
+  positions:
+  - designation: Research Assistant & Graduate Fellow
+    start: 2022
+    end: 2024
+    responsibilities:
+      show: true
+      respons:
+      - Published PTSD detection research using fNIRS and Biopac signals (ACII 2023)
+      - Built scalable HPC pipelines for multimodal ML and large-scale data analysis
+      - Collaborated with Cornell University and UMass Amherst on privacy-preserving AI projects
+
 - company:
     typeOfExperience: Research Experience
     name: Computer Science and Engineering, Brac University
     url: "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering"
     location: 66 Mohakhali, Dhaka 1212, Bangladesh
-    # company overview
     overview: 'I was co-supervising some research teams on the following topics'
   positions:
   - designation: Co-supervisor
-    start:  April 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    start: April 2020
     end: Dec 2022
-    # give some points about what was your responsibilities at the company.
     responsibilities:
-      show: true   #if true, shows elements of respons as items
+      show: true
       respons:
       - Real Time Translation from Sign Language to Written Language in both Bengali and English Language using Deep Learning, spring 2021
       - Machine Learning Models To Predict Impacts Of Different Parenting Styles On Child’s Mental Health, summer21
