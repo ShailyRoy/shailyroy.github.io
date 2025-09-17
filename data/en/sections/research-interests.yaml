@@ -7,15 +7,13 @@ section:
   hideTitle: false
 
 researchContents:
-
 - content: 
   title: 
   image: "files/research/bot.gif"
-  description: 'I am broadly interested in Data Science and Machine Learning. Currently, I am working on Human Sensing Technology. <br /><br />I prefer to work on -' 
-  description2: '* Machine Learning'
-  description3: '* Neural Network'
-  description4: '* Deep Learning'
-  description5: '* Image Processing'
+  description: 'My research focuses on Data Science and Machine Learning, with current work in Human Sensing Technologies. <br /><br />Key areas of interest include:' 
+  description2: '* Federated Learning and Fairness in AI'
+  description3: '* Neural Networks and Deep Learning'
+  description4: '* Multimodal Human Sensing'
+  description5: '* Signal Processing'
   description6: '* Natural Language Processing'
-  description7: '* Artificial Intelligence'
-  
+  description7: '* Ethical and Human-Centered AI'
