@@ -9,8 +9,8 @@ publicationList:
 - publication:
     type: Preprints
   entry:
-    - title: '<text style="color: #aa4e24">Roy, S.</text>, Hameed, A., Salekin, A., Sultana, S., & Duan, Y. (2025). Curvature-Aligned Federated Learning: Fairness without Demographics. arXiv preprint arXiv:2501.12345.'
-      url: https://arxiv.org/abs/2501.12345
+    - title: '<text style="color: #aa4e24">Roy, S.</text>, Sharma, H., & Salekin, A. (2024). Curvature-Aligned Federated Learning (CAFe): Harmonizing Loss Landscapes for Fairness Without Demographics. arXiv preprint arXiv:2404.19725 (2024)'
+      url: https://arxiv.org/abs/2404.19725
       citationCount: 0
       abstract:
         show: false
