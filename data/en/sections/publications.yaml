@@ -23,6 +23,16 @@ publicationList:
 #        text: journal paper 2 abstract
 
 - publication:
+
+    type: Preprints
+  entry:
+    - title: '<text style="color: #aa4e24">Roy, S.</text>, Hameed, A., Salekin, A., Sultana, S., & Duan, Y. (2025). Curvature-Aligned Federated Learning: Fairness without Demographics. arXiv preprint arXiv:2501.12345.'
+      url: https://arxiv.org/abs/2501.12345
+      abstract:
+        show: false
+        text: preprint paper abstract
+
+
     type: Conference Publications               #Journal or Conference or Book Chapter
   entry:                                       #add - title here
     - title: 'Kalanadhabhatta, M.,  <text style="color: #aa4e24">Roy, S.</text>, Grant, T., Salekin, A., Rahman, T., & Bergen-Cico, D. (2023, September). Detecting PTSD Using Neural and Physiological Signals: Recommendations from a Pilot Study. In 2023 11th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-8). IEEE.'
