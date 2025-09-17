@@ -1,4 +1,4 @@
-{{ $sectionID := replace (lower .section.name) " " "-"  }}
+{{ $sectionID := replace (lower .section.name) " " "-" }}
 {{ if .section.id }}
   {{ $sectionID = .section.id }}
 {{ end }}
@@ -7,10 +7,26 @@
   {{ if not (.section.hideTitle) }}
     <h1 class="text-center">{{ .section.name }}</h1>
   {{ end }}
+
+  {{/* NEW: render CV-style text blocks before the gallery */}}
+  {{ with .contents }}
+  <div class="container mb-4">
+    {{ range . }}
+      {{ if .title }}<h3 class="mb-2">{{ .title }}</h3>{{ end }}
+      {{ with .content }}
+        <div class="prose mb-4">
+          {{ . | markdownify }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+  {{ end }}
+
   <div class="container">
     <div class="row" id="gallery">
     </div>
   </div>
+
   <!-- achievements-holder holds achievement-entry -->
   <div class="d-none" id="achievements-holder">
     {{ range .achievements }}
@@ -18,3 +34,8 @@
     {{ end }}
   </div>
 </div>
+
+{{/* NEW: shrink images in this section only */}}
+<style>
+  #{{ $sectionID }} img { max-height: 90px; width: auto; }
+</style>
