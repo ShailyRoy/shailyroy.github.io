@@ -1,6 +1,6 @@
 section:
   name: Research
-  id: research-projects
+  id: research-interests
   enable: true
   weight: 7
   showOnNavbar: true
