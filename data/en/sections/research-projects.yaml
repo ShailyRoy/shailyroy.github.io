@@ -1,14 +1,29 @@
 section:
   name: Research
   id: research-projects
-  enable: false
+  enable: true
   weight: 6
-  showOnNavbar: false
+  showOnNavbar: true
   hideTitle: false
 
 researchContents:
 
-- content: 
-  title: '<text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S., Chakrabarty, A., 2018. Bitcoin Price Forecasting using Time Series Analysis.'
-  image: "files/research/bit.gif"
-  description: "It was my undergraduate thesis project. Over the past few years, Bitcoin has been a topic of interest of many, from academic researchers to trade investors. Bitcoin is the first as well as the most popular cryptocurrency till date. Since its launch in 2009, it has become widely popular amongst various kinds of people for its trading system without the need of a third party and also due to high volatility of Bitcoin price. In this paper, we propose a suitable model that can predict the market price of Bitcoin best by applying a few statistical analysis. Our work is done on four years bitcoin data from 2013 to 2017 based on time series approaches especially autoregressive integrated moving average (ARIMA) model and the work finally could acquire an accuracy of 90% for deciding volatility in weighted costs of bitcoin in the short run."
+- content:
+  title: 'Ethical AI for Healthcare'
+  image: "files/research/image.png"
+  description: "AI is rapidly transforming healthcare, yet many models optimize only for accuracy and overlook ethical principles. A system may perform well on average but still fail specific patient groups, leading to unequal or harmful outcomes. This project develops methods to evaluate and design AI systems that are not only accurate but also ethical—ensuring equity, avoiding harm, and fostering trust—without depending on sensitive demographic attributes."
+
+- content:
+  title: 'Algorithmic Fairness in Human Sensing Federated Learning'
+  image: "files/research/cafe.png"
+  description: "Federated Learning (FL) allows privacy-preserving collaboration across devices, making it ideal for human sensing. However, existing fairness solutions often require demographic labels, which may be unavailable or privacy-sensitive. This project introduces Curvature-Aligned Federated Learning (CAFe), a framework that aligns the loss-landscape curvature during both local training and global aggregation. CAFe achieves ‘Fairness without Demographics,’ enabling models to balance performance and fairness across diverse human-sensing populations."
+
+- content:
+  title: 'Synthetic Data Generation and Visualization'
+  image: "files/research/synthatic.gif"
+  description: "Reliable datasets are the backbone of AI research, but real-world data is often limited or restricted. This project explores synthetic data generation paired with interactive visualization. Using D3.js, we designed a dashboard that links hierarchical tree layouts with dynamic force-directed graphs, allowing users to explore relationships between entities. The framework serves as both a teaching tool and a research sandbox for experimenting with data-driven storytelling."
+
+- content:
+  title: 'Personalization and Commonsense AI'
+  image: "files/research/personalisation.png"
+  description: "Human sensing data varies not only across individuals but also within the same person under different contexts. Generic models often miss these nuances, limiting their usefulness in sensitive domains like healthcare. This project investigates personalization strategies that adapt models to both inter- and intra-user variability, guided by commonsense reasoning. The goal is to build AI systems that are context-aware, clinically reliable, and capable of generalizing even with scarce data."
