@@ -4,13 +4,12 @@ section:
   enable: true
   weight: 18
   showOnNavbar: true
-  hideTitle: false
 
-# First part: plain text awards list
+# ⇩ NEW: CV-style text lists shown above the cards
 contents:
 - title: ""
   content: |
-    ### Academic Awards / Scholarships
+    **Academic Awards / Scholarships**
     - Fulton Fellowship, Arizona State University (2024–Present)
     - Graduate Fellowship, Syracuse University (2022–2024)
     - Fully Funded Graduate Scholarship, BRAC University (2020–2023)
@@ -19,42 +18,59 @@ contents:
     - Vice Chancellor’s List Award, Computer Science, BRAC University (2016, 2017, 2018)
     - Education Board Scholarship — Higher Secondary, Junior, Primary (2006, 2009, 2014)
 
-    ### Extracurricular
+    **Extracurricular**
     - Champion, NSU Inter-University Girls’ Programming Contest (2018)
     - 4th Place, National Girls’ Programming Contest (2017)
     - 4th Place, Ada Lovelace National Girls’ Programming Contest (2017)
     - Vice Chancellor’s Certificate for academic excellence and conduct (2015)
 
-# Second part: image-based gallery
+# ⇩ KEEP YOUR ORIGINAL CARD LIST UNCHANGED
 achievements:
-- title: Presenter — ICECCME 2021
+- title: Presenter
   image: /images/sections/achievements/iceccme.png
-  summary: "Presented paper at ICECCME 2021"
-
-- title: Presenter — ICISSC 2021
+  summary: "Presented a paper on ICECCME-2021: International Conference on Electrical, Computer, Communications and Mechatronics Engineering"
+- title: Presenter
   image: /images/sections/achievements/Ms.-Shaily-Roy.jpg
-  summary: "Presented paper at ICISSC 2021"
-
-- title: Presenter — ICCIT 2018
+  summary: "Presented a paper on ICISSC-2021: International Conference on Intelligent Systems and Sustainable Computing"
+- title: Champion
+  image: /images/sections/achievements/pAlo-2018_02_03_16_1_b.jpg
+  summary: Champion in Inter University Girls' Programming Contest.
+- title: VC Certified
+  image: /images/sections/achievements/vc.png
+  summary: Got Certification from VC for high standard discipline in Residential Semester
+- title: "Winner"
+  image: /images/sections/achievements/b.jpg
+  summary: Participated in a National Girls' Programming Contest and got 4th Position
+- title: Winner
+  image: /images/sections/achievements/codeit.png
+  summary: Participating in a National Girls' Contest and got 3rd position
+- title: Winner
+  image: /images/sections/achievements/adal.png
+  summary: Participated in a National Women Online Contest and got 4th Position
+- title: Presenter
+  image: /images/sections/achievements/tarc.jpg
+  summary: Successfully started Programming course as RS activity in Sava Residential Campus of Bracu.
+- title: Presenter
   image: /images/sections/achievements/paper.jpg
-  summary: "Presented paper at ICCIT 2018"
-
-- title: Instructor — IEEE Workshop
+  summary: Successfully presented Conference Paper in ICCIT2018.
+- title: Instructor
   image: /images/sections/achievements/win.png
-  summary: "Instructor, IEEE programming workshop"
-
+  summary: Successfully performed as an instructor in IEEE Programming workshop, Presented workshop details on behalf of the students.
+- title: Presenter
+  image: /images/sections/achievements/presenter.jpg
+  summary: 'Successfully completed workshops'
+- title: Participant
+  image: /images/sections/achievements/contest.jpeg
+  summary: Participating in a National Contest.
+- title: Participant
+  image: /images/sections/achievements/icpc.jpg
+  summary: Participated in icpc regional 2018.
+- title: 'Certified Android Dev'
+  image: /images/sections/achievements/android.jpg
+  summary: 'Certified as Android Developer from Bracu Chair person Haidar Ali Sir'
+- title: Participant
+  image: /images/sections/achievements/cert.jpg
+  summary:
 - title: Keynote Speaker
   image: /images/sections/achievements/prog.png
-  summary: "Talk on importance of programming contests"
-
-- title: Champion — NSU IUGPC
-  image: /images/sections/achievements/pAlo-2018_02_03_16_1_b.jpg
-  summary: "NSU Inter-University Girls’ Programming Contest, 2018"
-
-- title: 4th Place — National Girls’ Contest
-  image: /images/sections/achievements/b.jpg
-  summary: "National Girls’ Programming Contest, 2017"
-
-- title: 4th Place — Ada Lovelace Contest
-  image: /images/sections/achievements/adal.png
-  summary: "Ada Lovelace National Girls’ Programming Contest, 2017"
+  summary: 'A session on Importance of programming contests. link: https://www.facebook.com/447593662694887/posts/1172411863546393/'
