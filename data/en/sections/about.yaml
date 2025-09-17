@@ -24,19 +24,18 @@ company1:
   url: "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd?init=false&nopassive=true"
 
 # a summary about you
-summaryCompany1: 'I am a PhD student at Arizona State University (ASU), beginning in Fall 2024 after transferring from Syracuse University. I hold the Fulton Fellowship and serve as a Graduate Research Associate at ASU. From Fall 2022 to 2024, I pursued my PhD studies in the Department of Computer and Information Science at Syracuse University, supported by the Syracuse University Fellowship.
+summaryCompany1: 'I am a PhD student at Arizona State University (ASU), beginning in Fall 2024 after transferring from Syracuse University. I hold the Fulton Fellowship and serve as a Graduate Research Associate. From 2022 to 2024, I pursued my PhD in Computer and Information Science at Syracuse University, supported by the Syracuse University Fellowship.
 
-Prior to my PhD, I completed a thesis-based master’s degree in Computer Science and Engineering at BRAC University in 2023 with a perfect CGPA of 4.0, following my bachelor’s degree in the same department in 2018 with the highest distinction. I then worked as a Lecturer at BRAC University and later in the Department of Software Engineering at Daffodil International University. 
+Before my PhD, I completed a thesis-based master’s degree in Computer Science and Engineering at BRAC University in 2023 with a perfect CGPA of 4.0, following my bachelor’s degree in 2018 with the highest distinction. I also worked as a Lecturer at BRAC University and Daffodil International University, gaining teaching and mentoring experience, and served as a tutor and competitive programming coach. In addition, I worked as a software engineer at a US-based company and presented research at international conferences.
 
-During my studies at BRAC University, I served as a tutor for CSE and Mathematics for over two years, actively participated in competitive programming with multiple national recognitions, and co-organized contests and workshops with the BRAC University Computer Club (BUCC). I also gained industry experience as a software engineer at a US-based company and taught hardware implementation of programming. My research contributions include presenting work at international conferences.
+My current research is driven by the goal of building AI systems that are fair, ethical, and human-centered. Key areas of interest include: <br/>
+- <b>Federated Learning and Algorithmic Fairness</b> <br/>
+- <b>Human Sensing and Multimodal Data Processing</b> <br/>
+- <b>Neural Networks and Deep Learning</b> <br/>
+- <b>Signal and Physiological Data Processing</b> <br/>
+- <b>Natural Language Processing</b> <br/>
+- <b>Ethical and Context-Aware AI</b>'
 
-My current research is driven by the goal of building AI systems that are fair, ethical, and human-centered. Key areas of interest include:
-- Federated Learning and Algorithmic Fairness
-- Human Sensing and Multimodal Data Processing
-- Neural Networks and Deep Learning
-- Signal and Physiological Data Processing
-- Natural Language Processing
-- Ethical and Context-Aware AI'
 
 
 # your resume. this file path should be relative to you "static" directory
