@@ -3,7 +3,7 @@ section:
   id: publications
   enable: true
   weight: 6
-  showOnNavbar: false
+  showOnNavbar: true
 
 publicationList:
 - publication:
