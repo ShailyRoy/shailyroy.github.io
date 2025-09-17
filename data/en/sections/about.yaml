@@ -24,11 +24,12 @@ company1:
   url: "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd?init=false&nopassive=true"
 
 # a summary about you
-summaryCompany1: 'I am currently a PhD student at Arizona State University (ASU) as of Fall 2024, having transferred from Syracuse University. I received the Fulton Fellowship and a position as a Graduate Research Associate at ASU, allowing me to continue my PhD studies. Since Fall 2022, I had been studying in the Department of Computer Information Science and Engineering at Syracuse University, where I was awarded the prestigious Syracuse University Fellowship in recognition of my achievements.
+summaryCompany1: 'I am a PhD student at Arizona State University (ASU), beginning in Fall 2024 after transferring from Syracuse University. I hold the Fulton Fellowship and serve as a Graduate Research Associate at ASU. From Fall 2022 to 2024, I pursued my PhD studies in the Department of Computer and Information Science at Syracuse University, supported by the Syracuse University Fellowship.
 
-Before my PhD journey, I worked as a Lecturer at my Alma Mater, BRAC University, where I graduated with the highest distinction in December 2018.  In 2023, I earned my thesis-based master’s degree from the same department with a perfect CGPA of 4.0. Additionally, I was appointed as a Lecturer in the Department of Software Engineering at Daffodil International University. During my time as a student at BRAC University, I served as a tutor for CSE and Mathematics for over two years. I was also actively involved in competitive programming, earning multiple national recognitions. I co-organized several intra-university programming contests and workshops with other contestants and the BRAC University Computer Club (BUCC).
+Prior to my PhD, I completed a thesis-based master’s degree in Computer Science and Engineering at BRAC University in 2023 with a perfect CGPA of 4.0, following my bachelor’s degree in the same department in 2018 with the highest distinction. I then worked as a Lecturer at BRAC University and later in the Department of Software Engineering at Daffodil International University. 
 
-Before graduation, I also taught hardware implementation of programming and gained experience as a software engineer at a USA-based company. Furthermore, I successfully presented my research at a renowned international conference.'
+During my studies at BRAC University, I served as a tutor for CSE and Mathematics for over two years, actively participated in competitive programming with multiple national recognitions, and co-organized contests and workshops with the BRAC University Computer Club (BUCC). I also gained industry experience as a software engineer at a US-based company and taught hardware implementation of programming. My research contributions include presenting work at international conferences.'
+
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/shailyR.pdf"
