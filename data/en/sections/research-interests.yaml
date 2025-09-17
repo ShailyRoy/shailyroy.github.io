@@ -1,10 +1,11 @@
 section:
   name: Research Interests
-  id: research-interests
+  id: research           # was: research-interests
   enable: true
   weight: 7
-  showOnNavbar: False
+  showOnNavbar: false
   hideTitle: false
+
 
 researchContents:
 - content: 
