@@ -1,0 +1,135 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# # your designation
+# designation1: Lecturer
+# # your company information
+# company1:
+#   name: Brac University
+#   dept: Department of CSE,
+#   url: "https://www.bracu.ac.bd/"
+
+# your designation
+designation1: Ph.D. Fellow and Graduate Research Associate
+# your company information
+company1:
+  name: <br>Arizona State University</br>
+  dept: CSE,
+  url: "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd?init=false&nopassive=true"
+
+# a summary about you
+summaryCompany1: 'I am a PhD student at Arizona State University (ASU), beginning in Fall 2024 after transferring from Syracuse University. I hold the Fulton Fellowship and serve as a Graduate Research Associate. From 2022 to 2024, I pursued my PhD in Computer and Information Science at Syracuse University, supported by the Syracuse University Fellowship.
+
+Before my PhD, I completed a thesis-based master’s degree in Computer Science and Engineering at BRAC University in 2023 with a perfect CGPA of 4.0, following my bachelor’s degree in 2018 with the highest distinction. I also worked as a Lecturer at BRAC University and Daffodil International University, gaining teaching and mentoring experience, and served as a tutor and competitive programming coach. In addition, I worked as a software engineer at a US-based company and presented research at international conferences.
+
+My current research is driven by the goal of building AI systems that are fair, ethical, and human-centered. Key areas of interest include: <br/>
+- <b>Federated Learning and Algorithmic Fairness</b> <br/>
+- <b>Human Sensing and Multimodal Data Processing</b> <br/>
+- <b>Neural Networks and Deep Learning</b> <br/>
+- <b>Signal and Physiological Data Processing</b> <br/>
+- <b>Natural Language Processing</b> <br/>
+- <b>Ethical and Context-Aware AI</b>'
+
+
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/shailyR.pdf"
+
+
+#designation2: Lecturer
+
+#company2:
+#  name: Sonargaon University (SU)
+#  dept: Department of Mechanical Engineering
+#  url: "http://su.edu.bd"
+
+#summaryCompany2: 'test' 
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "shaily.roy@bracu.ac.bd"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://bd.linkedin.com/in/shaily-roy-a64123109"
+
+- name: Google Scholar
+  icon: "ai ai-google-scholar ai-1.5x"
+  url: "https://scholar.google.com/citations?user=NiKP_10AAAAJ&hl=en"
+
+- name: Researchgate
+  icon: "ai ai-researchgate ai-1.5x"
+  url: "https://www.researchgate.net/profile/Shaily-Roy"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/shailyroy"
+
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Honesty
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: Determination
+  percentage: 95
+  color: orange
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 90
+  color: yellow
+
+- type: certification
+  name: Me
+  url: ""
+  badge: "files/shaily2.png"
+
+- type: certification
+  name: me
+  url: ""
+  badge: "files/shaily1.jpg"
+
+- type: certification
+  name: Me
+  url: ""
+  badge: "files/shaily.jpg"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 70
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: orange
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

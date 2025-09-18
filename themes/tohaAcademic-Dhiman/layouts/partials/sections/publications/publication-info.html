@@ -1,0 +1,5 @@
+{{ if gt (len .entry) 1 }}
+  {{ partial "sections/publications/multiple-publications" . }}
+{{ else }}
+  {{ partial "sections/publications/single-publication.html" . }}
+{{ end }}

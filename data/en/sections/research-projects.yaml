@@ -1,0 +1,29 @@
+section:
+  name: Research Projects
+  id: research-projects
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  hideTitle: false
+
+researchContents:
+
+- content:
+  title: 'Ethical AI for Healthcare'
+  image: "files/research/image.png"
+  description: "AI is rapidly transforming healthcare, yet many models optimize only for accuracy and overlook ethical principles. A system may perform well on average but still fail specific patient groups, leading to unequal or harmful outcomes. This project develops methods to evaluate and design AI systems that are not only accurate but also ethical—ensuring equity, avoiding harm, and fostering trust—without depending on sensitive demographic attributes."
+
+- content:
+  title: 'Algorithmic Fairness in Human Sensing Federated Learning'
+  image: "files/research/cafe.png"
+  description: "Federated Learning (FL) allows privacy-preserving collaboration across devices, making it ideal for human sensing. However, existing fairness solutions often require demographic labels, which may be unavailable or privacy-sensitive. This project introduces Curvature-Aligned Federated Learning (CAFe), a framework that aligns the loss-landscape curvature during both local training and global aggregation. CAFe achieves ‘Fairness without Demographics,’ enabling models to balance performance and fairness across diverse human-sensing populations."
+
+- content:
+  title: 'Synthetic Data Generation and Visualization'
+  image: "files/research/synthatic.gif"
+  description: "Reliable datasets are the backbone of AI research, but real-world data is often limited or restricted. This project explores synthetic data generation paired with interactive visualization. Using D3.js, we designed a dashboard that links hierarchical tree layouts with dynamic force-directed graphs, allowing users to explore relationships between entities. The framework serves as both a teaching tool and a research sandbox for experimenting with data-driven storytelling."
+
+- content:
+  title: 'Personalization and Commonsense AI'
+  image: "files/research/personalisation.png"
+  description: "Human sensing data varies not only across individuals but also within the same person across different contexts. Generic models often miss these nuances, reducing their effectiveness in sensitive domains like healthcare. This project explores personalization strategies that adapt models to both inter- and intra-user variability, enhanced by commonsense reasoning to interpret context and fill data gaps. The aim is to build AI systems that are context-aware, clinically reliable, and capable of generalizing even with scarce or incomplete data."

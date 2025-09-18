@@ -1,0 +1,62 @@
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+publicationList:
+- publication:
+    type: Preprints
+  entry:
+    - title: '<text style="color: #aa4e24">Roy, S.</text>, Sharma, H., & Salekin, A. (2024). Curvature-Aligned Federated Learning (CAFe): Harmonizing Loss Landscapes for Fairness Without Demographics. arXiv preprint arXiv:2404.19725 (2024)'
+      url: https://arxiv.org/abs/2404.19725
+      citationCount: 0
+      abstract:
+        show: false
+        text: preprint paper abstract
+
+- publication:
+    type: Peer-Reviewed Publications
+  entry:
+    - title: 'Kalanadhabhatta, M.,  <text style="color: #aa4e24">Roy, S.</text>, Grant, T., Salekin, A., Rahman, T., & Bergen-Cico, D. (2023, September). Detecting PTSD Using Neural and Physiological Signals: Recommendations from a Pilot Study. In 2023 11th International Conference on Affective Computing and Intelligent Interaction (ACII) (pp. 1-8). IEEE.'
+      url: 10.1109/ACII59096.2023.10388200
+      citationCount: 5
+      abstract:
+        show: false
+        text: journal paper 2 abstract
+
+    - title: 'Bismoy, M.I., Shahrear, F., Mitra, A., Bikash, D.M., Afrin, F., <text style="color: #aa4e24">Roy, S.</text> and Arif, H., 2022, November. Image Translation of Bangla and English Sign Language to Written Language using Convolutional Neural Network. In <i>2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)</i> (pp. 1-6). IEEE.'
+      url: 10.1109/ICECCME55909.2022.9988088
+      citationCount: 3
+      abstract:
+        show: false
+        text: journal paper 2 abstract
+
+    - title: 'Al Taawab, A., Rahman, M., Islam, Z., Mustari, N., <text style="color: #aa4e24">Roy, S.</text> and Alam, M.G.R., 2022, October. Detecting Self-Esteem Level and Depressive Indication Due to Different Parenting Style Using Supervised Learning Techniques. In <i>2022 9th International Conference on Behavioural and Social Computing (BESC)</i> (pp. 1-6). IEEE.'
+      url: 10.1109/BESC57393.2022.9995147
+      citationCount: 2
+      abstract:
+        show: false
+        text: journal paper 2 abstract
+
+    - title: '<text style="color: #aa4e24">Roy, S.</text> and Tahsin, L., 2022. Prediction of COVID-19 Severity Level Using XGBoost Algorithm: A Machine Learning Approach Based on SIR Epidemiological Model. In <i>Intelligent Systems and Sustainable Computing</i> (pp. 69-78). Springer, Singapore.'
+      url: 10.1007/978-981-19-0011-2_7
+      citationCount: 6
+      abstract:
+        show: false
+        text: journal paper 2 abstract
+
+    - title: 'Ahmed, S., <text style="color: #aa4e24">Roy, S.</text> and Alam, G.R., 2021, October. Benchmarking and Selecting Optimal Diabetic Retinopathy Detecting Machine Learning Model using Entropy and TOPSIS Method. In <i>2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)</i> (pp. 1-6). IEEE.'
+      url: 10.1109/ICECCME52200.2021.9591153
+      citationCount: 4
+      abstract:
+        show: false
+        text: journal paper 2 abstract
+
+    - title: '<text style="color: #aa4e24">Roy, S.</text>, Nanjiba, S., & Chakrabarty, A. (2018, December). Bitcoin price forecasting using time series analysis. In 2018 21st International Conference of Computer and Information Technology (ICCIT) (pp. 1-5). IEEE.'
+      url: 10.1109/ICCITECHN.2018.8631923
+      citationCount: 15
+      abstract:
+        show: false
+        text: 'It was my undergraduate thesis project.'

@@ -1,0 +1,22 @@
+copyright: Developed using Toha theme
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
+You can modify or distribute the theme without requiring any permission from the theme author.
+However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Hi, I am Shaily Roy. A PhD student in Arizona State University.
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+#customMenus:
+#- name: Docs
+#  url: https://toha-guides.netlify.app/posts/
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Shaily Roy
+  type: Article
+  description: An enthusiast Researcher and Teacher.
+  image: files/forOG.webp
+  url: https://shailyroy.github.io

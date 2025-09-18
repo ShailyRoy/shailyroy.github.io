@@ -1,0 +1,6 @@
+.vscode/
+node_modules/
+.DS_Store
+.history/
+resources/
+.hugo_build.lock

@@ -1,0 +1,30 @@
+{{ $sectionID := replace (lower .section.name) " " "-"  }}
+{{ if .section.id }}
+{{ $sectionID = .section.id }}
+{{ end }}
+
+<div class="container-fluid anchor pb-5 experiences-section" id="{{ $sectionID }}">
+  {{ if not (.section.hideTitle) }}
+    <h1 class="text-center">{{ .section.name }}</h1><br />
+  {{ end }}
+  
+    <div class="container timeline text-justify">
+     {{ $totalPublications:= len .publicationList }}
+     {{ range $index,$publication:= .publicationList }}
+       {{ if eq (mod $index 2) 0 }}
+         <div class="row align-items-center  d-flex">
+           {{ partial "sections/publications/vertical-line2.html" $index }}
+           {{ partial "sections/publications/publication-info.html" $publication }}
+           {{ partial "sections/publications/vertical-line2.html" $index }}
+         </div>
+       {{else}}
+         <div class="row align-items-center justify-content-end d-flex">
+           {{ partial "sections/publications/vertical-line2.html" $index }}
+           {{ partial "sections/publications/publication-info.html" $publication }}
+           {{ partial "sections/publications/vertical-line2.html" $index }}
+         </div>
+       {{ end }}
+
+     {{ end }}
+    </div>
+</div>

@@ -1,0 +1,18 @@
+<div class="col-10 col-lg-8">
+    <div class="experience-entry-heading">
+        {{ $item:= index .entry 0 }}
+        <h4 rel="noopener" style="color: #aa4e24" >{{.publication.type}}</h4><br/>
+        <!-- For single position, give emphasis on the designation-->
+        <h6 class="designation">{{ $item.title | markdownify }} {{ if $item.url }} <br>doi: <a href="https://doi.org/{{ $item.url }}" target="_blank">{{ $item.url }} </a> {{ end }}</h6> <br />
+        
+        <!-- Add experience duration info -->
+    </div>
+    <!-- Add company overview -->
+
+    {{ $pos:= index .entry 0 }}
+    {{ if $pos.abstract.show }}
+        <!-- Add the responsibilities handled at this position -->
+        <h6 class="position">Abstract</h6>
+        <p>{{ $item.abstract.text | markdownify }}</p><br />
+    {{ end }}
+</div>

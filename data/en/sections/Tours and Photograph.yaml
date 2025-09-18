@@ -1,0 +1,30 @@
+
+# section information
+section:
+  name: Tours and Photography
+  id: achievement
+  enable: false
+  weight: 11
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+hideTitle: false
+achievement:
+- title: Champion
+  image: /images/sections/tours/a.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/b.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/c.jpg
+  summary: 
+  - title: Champion
+  image: /images/sections/tours/d.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/e.jpg
+  summary: 
+- title: Champion
+  image: /images/sections/tours/f.jpg
+  summary: 
+
