@@ -1,0 +1,21 @@
+section:
+  name: Research Interests
+  id: research
+  enable: false
+  weight: 7
+  showOnNavbar: false
+  hideTitle: false
+
+contents:
+- title: ""
+  image: "files/research/bot.gif"
+  content: |
+    My research lies at the intersection of Data Science, Machine Learning, and Human Sensing. I design AI systems that are fair, ethical, and context-aware.
+
+    **Key areas of interest**
+    - Federated Learning and Algorithmic Fairness
+    - Neural Networks and Deep Learning
+    - Multimodal Human Sensing and Context-Aware Modeling
+    - Signal and Physiological Data Processing
+    - Natural Language Processing
+    - Ethical and Human-Centered AI
